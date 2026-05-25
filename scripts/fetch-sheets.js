@@ -5,6 +5,11 @@ dotenv.config({ path: '.env.local' })
 const SHEET_ID = process.env.VITE_SHEET_ID
 const API_KEY = process.env.VITE_SHEETS_API_KEY
 
+if (!SHEET_ID || !API_KEY) {
+  console.error('Missing VITE_SHEET_ID or VITE_SHEETS_API_KEY env vars')
+  process.exit(1)
+}
+
 const TABS = ['QB', 'RB', 'WR', 'TE', 'OC', 'OG', 'OT', 'DT', 'EDGE', 'LB', 'CB', 'SAF']
 
 async function fetchTab(tab) {
