@@ -1,0 +1,7576 @@
+[
+  {
+    "player": "Matthew Stafford",
+    "position": "QB",
+    "season": "2025",
+    "team": "LAR",
+    "grade": 85.8
+  },
+  {
+    "player": "Brock Purdy",
+    "position": "QB",
+    "season": "2025",
+    "team": "SF",
+    "grade": 85.8
+  },
+  {
+    "player": "Jordan Love",
+    "position": "QB",
+    "season": "2025",
+    "team": "GB",
+    "grade": 85.2
+  },
+  {
+    "player": "Josh Allen",
+    "position": "QB",
+    "season": "2025",
+    "team": "BUF",
+    "grade": 84.1
+  },
+  {
+    "player": "Drake Maye",
+    "position": "QB",
+    "season": "2025",
+    "team": "NE",
+    "grade": 81.5
+  },
+  {
+    "player": "Joe Burrow",
+    "position": "QB",
+    "season": "2025",
+    "team": "CIN",
+    "grade": 81.3
+  },
+  {
+    "player": "Dak Prescott",
+    "position": "QB",
+    "season": "2025",
+    "team": "DAL",
+    "grade": 80.8
+  },
+  {
+    "player": "Patrick Mahomes",
+    "position": "QB",
+    "season": "2025",
+    "team": "KC",
+    "grade": 80.1
+  },
+  {
+    "player": "Bo Nix",
+    "position": "QB",
+    "season": "2025",
+    "team": "DEN",
+    "grade": 79
+  },
+  {
+    "player": "Jared Goff",
+    "position": "QB",
+    "season": "2025",
+    "team": "DET",
+    "grade": 78.5
+  },
+  {
+    "player": "Mac Jones",
+    "position": "QB",
+    "season": "2025",
+    "team": "SF",
+    "grade": 77.4
+  },
+  {
+    "player": "Trevor Lawrence",
+    "position": "QB",
+    "season": "2025",
+    "team": "JAX",
+    "grade": 77.2
+  },
+  {
+    "player": "Kyler Murray",
+    "position": "QB",
+    "season": "2025",
+    "team": "ARI",
+    "grade": 77
+  },
+  {
+    "player": "Caleb Williams",
+    "position": "QB",
+    "season": "2025",
+    "team": "CHI",
+    "grade": 76.5
+  },
+  {
+    "player": "Jalen Hurts",
+    "position": "QB",
+    "season": "2025",
+    "team": "PHI",
+    "grade": 75.3
+  },
+  {
+    "player": "Daniel Jones",
+    "position": "QB",
+    "season": "2025",
+    "team": "IND",
+    "grade": 74.7
+  },
+  {
+    "player": "Jayden Daniels",
+    "position": "QB",
+    "season": "2025",
+    "team": "WAS",
+    "grade": 74.5
+  },
+  {
+    "player": "Sam Darnold",
+    "position": "QB",
+    "season": "2025",
+    "team": "SEA",
+    "grade": 74.1
+  },
+  {
+    "player": "C.J. Stroud",
+    "position": "QB",
+    "season": "2025",
+    "team": "HOU",
+    "grade": 73.8
+  },
+  {
+    "player": "Justin Herbert",
+    "position": "QB",
+    "season": "2025",
+    "team": "LAC",
+    "grade": 73.2
+  },
+  {
+    "player": "Lamar Jackson",
+    "position": "QB",
+    "season": "2025",
+    "team": "BAL",
+    "grade": 72.3
+  },
+  {
+    "player": "Tyler Shough",
+    "position": "QB",
+    "season": "2025",
+    "team": "NO",
+    "grade": 71.8
+  },
+  {
+    "player": "Baker Mayfield",
+    "position": "QB",
+    "season": "2025",
+    "team": "TB",
+    "grade": 71.6
+  },
+  {
+    "player": "Jacoby Brissett",
+    "position": "QB",
+    "season": "2025",
+    "team": "ARI",
+    "grade": 71.6
+  },
+  {
+    "player": "Kirk Cousins",
+    "position": "QB",
+    "season": "2025",
+    "team": "ATL",
+    "grade": 70.8
+  },
+  {
+    "player": "Jaxson Dart",
+    "position": "QB",
+    "season": "2025",
+    "team": "NYG",
+    "grade": 70.6
+  },
+  {
+    "player": "Bryce Young",
+    "position": "QB",
+    "season": "2025",
+    "team": "CAR",
+    "grade": 70.4
+  },
+  {
+    "player": "Spencer Rattler",
+    "position": "QB",
+    "season": "2025",
+    "team": "NO",
+    "grade": 70.3
+  },
+  {
+    "player": "Joe Flacco",
+    "position": "QB",
+    "season": "2025",
+    "team": "CIN",
+    "grade": 70.1
+  },
+  {
+    "player": "Carson Wentz",
+    "position": "QB",
+    "season": "2025",
+    "team": "MIN",
+    "grade": 69.3
+  },
+  {
+    "player": "Marcus Mariota",
+    "position": "QB",
+    "season": "2025",
+    "team": "WAS",
+    "grade": 68.9
+  },
+  {
+    "player": "Aaron Rodgers",
+    "position": "QB",
+    "season": "2025",
+    "team": "PIT",
+    "grade": 68.2
+  },
+  {
+    "player": "Michael Penix Jr.",
+    "position": "QB",
+    "season": "2025",
+    "team": "ATL",
+    "grade": 66.8
+  },
+  {
+    "player": "Davis Mills",
+    "position": "QB",
+    "season": "2025",
+    "team": "HOU",
+    "grade": 65.9
+  },
+  {
+    "player": "Tua Tagovailoa",
+    "position": "QB",
+    "season": "2025",
+    "team": "MIA",
+    "grade": 65
+  },
+  {
+    "player": "Tyrod Taylor",
+    "position": "QB",
+    "season": "2025",
+    "team": "NYJ",
+    "grade": 64.9
+  },
+  {
+    "player": "Justin Fields",
+    "position": "QB",
+    "season": "2025",
+    "team": "NYJ",
+    "grade": 64.1
+  },
+  {
+    "player": "Russell Wilson",
+    "position": "QB",
+    "season": "2025",
+    "team": "NYG",
+    "grade": 61.2
+  },
+  {
+    "player": "J.J. McCarthy",
+    "position": "QB",
+    "season": "2025",
+    "team": "MIN",
+    "grade": 61
+  },
+  {
+    "player": "Geno Smith",
+    "position": "QB",
+    "season": "2025",
+    "team": "LV",
+    "grade": 59.7
+  },
+  {
+    "player": "Cam Ward",
+    "position": "QB",
+    "season": "2025",
+    "team": "TEN",
+    "grade": 59
+  },
+  {
+    "player": "Jake Browning",
+    "position": "QB",
+    "season": "2025",
+    "team": "CIN",
+    "grade": 53.5
+  },
+  {
+    "player": "Dillon Gabriel",
+    "position": "QB",
+    "season": "2025",
+    "team": "CLE",
+    "grade": 52.4
+  },
+  {
+    "player": "Shedeur Sanders",
+    "position": "QB",
+    "season": "2025",
+    "team": "CLE",
+    "grade": 51.1
+  },
+  {
+    "player": "Brady Cook",
+    "position": "QB",
+    "season": "2025",
+    "team": "NYJ",
+    "grade": 43.6
+  },
+  {
+    "player": "De'Von Achane",
+    "position": "RB",
+    "season": "2025",
+    "team": "MIA",
+    "grade": 89.6
+  },
+  {
+    "player": "Bijan Robinson",
+    "position": "RB",
+    "season": "2025",
+    "team": "ATL",
+    "grade": 87.1
+  },
+  {
+    "player": "Jonathan Taylor",
+    "position": "RB",
+    "season": "2025",
+    "team": "IND",
+    "grade": 83
+  },
+  {
+    "player": "D'Andre Swift",
+    "position": "RB",
+    "season": "2025",
+    "team": "CHI",
+    "grade": 81.5
+  },
+  {
+    "player": "Jahmyr Gibbs",
+    "position": "RB",
+    "season": "2025",
+    "team": "DET",
+    "grade": 80.8
+  },
+  {
+    "player": "Javonte Williams",
+    "position": "RB",
+    "season": "2025",
+    "team": "DAL",
+    "grade": 80.7
+  },
+  {
+    "player": "James Cook",
+    "position": "RB",
+    "season": "2025",
+    "team": "BUF",
+    "grade": 80.4
+  },
+  {
+    "player": "Kenneth Walker III",
+    "position": "RB",
+    "season": "2025",
+    "team": "SEA",
+    "grade": 80.4
+  },
+  {
+    "player": "Omarion Hampton",
+    "position": "RB",
+    "season": "2025",
+    "team": "LAC",
+    "grade": 79.5
+  },
+  {
+    "player": "Kyren Williams",
+    "position": "RB",
+    "season": "2025",
+    "team": "LAR",
+    "grade": 79.5
+  },
+  {
+    "player": "J.K. Dobbins",
+    "position": "RB",
+    "season": "2025",
+    "team": "DEN",
+    "grade": 79.5
+  },
+  {
+    "player": "Jaylen Warren",
+    "position": "RB",
+    "season": "2025",
+    "team": "PIT",
+    "grade": 79.2
+  },
+  {
+    "player": "Blake Corum",
+    "position": "RB",
+    "season": "2025",
+    "team": "LAR",
+    "grade": 78.3
+  },
+  {
+    "player": "Derrick Henry",
+    "position": "RB",
+    "season": "2025",
+    "team": "BAL",
+    "grade": 78
+  },
+  {
+    "player": "Rachaad White",
+    "position": "RB",
+    "season": "2025",
+    "team": "TB",
+    "grade": 77.6
+  },
+  {
+    "player": "Zach Charbonnet",
+    "position": "RB",
+    "season": "2025",
+    "team": "SEA",
+    "grade": 77.2
+  },
+  {
+    "player": "Chase Brown",
+    "position": "RB",
+    "season": "2025",
+    "team": "CIN",
+    "grade": 77.1
+  },
+  {
+    "player": "Chris Rodriguez Jr.",
+    "position": "RB",
+    "season": "2025",
+    "team": "WAS",
+    "grade": 76.8
+  },
+  {
+    "player": "Breece Hall",
+    "position": "RB",
+    "season": "2025",
+    "team": "NYJ",
+    "grade": 75.8
+  },
+  {
+    "player": "Kareem Hunt",
+    "position": "RB",
+    "season": "2025",
+    "team": "KC",
+    "grade": 73.9
+  },
+  {
+    "player": "Josh Jacobs",
+    "position": "RB",
+    "season": "2025",
+    "team": "GB",
+    "grade": 72
+  },
+  {
+    "player": "Kenneth Gainwell",
+    "position": "RB",
+    "season": "2025",
+    "team": "PIT",
+    "grade": 71.6
+  },
+  {
+    "player": "TreVeyon Henderson",
+    "position": "RB",
+    "season": "2025",
+    "team": "NE",
+    "grade": 71.5
+  },
+  {
+    "player": "Kyle Monangai",
+    "position": "RB",
+    "season": "2025",
+    "team": "CHI",
+    "grade": 70.1
+  },
+  {
+    "player": "Ray Davis",
+    "position": "RB",
+    "season": "2025",
+    "team": "BUF",
+    "grade": 70
+  },
+  {
+    "player": "Jordan Mason",
+    "position": "RB",
+    "season": "2025",
+    "team": "MIN",
+    "grade": 69.9
+  },
+  {
+    "player": "Saquon Barkley",
+    "position": "RB",
+    "season": "2025",
+    "team": "PHI",
+    "grade": 69.8
+  },
+  {
+    "player": "Cam Skattebo",
+    "position": "RB",
+    "season": "2025",
+    "team": "NYG",
+    "grade": 69.4
+  },
+  {
+    "player": "Rhamondre Stevenson",
+    "position": "RB",
+    "season": "2025",
+    "team": "NE",
+    "grade": 69.4
+  },
+  {
+    "player": "David Montgomery",
+    "position": "RB",
+    "season": "2025",
+    "team": "DET",
+    "grade": 69.2
+  },
+  {
+    "player": "Brian Robinson",
+    "position": "RB",
+    "season": "2025",
+    "team": "SF",
+    "grade": 69.1
+  },
+  {
+    "player": "Jacory Croskey-Merritt",
+    "position": "RB",
+    "season": "2025",
+    "team": "WAS",
+    "grade": 69.1
+  },
+  {
+    "player": "Travis Etienne",
+    "position": "RB",
+    "season": "2025",
+    "team": "JAX",
+    "grade": 68.1
+  },
+  {
+    "player": "Tyjae Spears",
+    "position": "RB",
+    "season": "2025",
+    "team": "TEN",
+    "grade": 67.5
+  },
+  {
+    "player": "Christian McCaffrey",
+    "position": "RB",
+    "season": "2025",
+    "team": "SF",
+    "grade": 67.4
+  },
+  {
+    "player": "Tyrone Tracy Jr.",
+    "position": "RB",
+    "season": "2025",
+    "team": "NYG",
+    "grade": 67.3
+  },
+  {
+    "player": "Rico Dowdle",
+    "position": "RB",
+    "season": "2025",
+    "team": "CAR",
+    "grade": 67.3
+  },
+  {
+    "player": "Aaron Jones",
+    "position": "RB",
+    "season": "2025",
+    "team": "MIN",
+    "grade": 66.8
+  },
+  {
+    "player": "Tony Pollard",
+    "position": "RB",
+    "season": "2025",
+    "team": "TEN",
+    "grade": 66.8
+  },
+  {
+    "player": "Samaje Perine",
+    "position": "RB",
+    "season": "2025",
+    "team": "CIN",
+    "grade": 65.6
+  },
+  {
+    "player": "Nick Chubb",
+    "position": "RB",
+    "season": "2025",
+    "team": "HOU",
+    "grade": 64.9
+  },
+  {
+    "player": "Tyler Allgeier",
+    "position": "RB",
+    "season": "2025",
+    "team": "ATL",
+    "grade": 64
+  },
+  {
+    "player": "Michael Carter",
+    "position": "RB",
+    "season": "2025",
+    "team": "ARI",
+    "grade": 63.7
+  },
+  {
+    "player": "Ashton Jeanty",
+    "position": "RB",
+    "season": "2025",
+    "team": "LV",
+    "grade": 63.6
+  },
+  {
+    "player": "Emanuel Wilson",
+    "position": "RB",
+    "season": "2025",
+    "team": "GB",
+    "grade": 63.1
+  },
+  {
+    "player": "Devin Singletary",
+    "position": "RB",
+    "season": "2025",
+    "team": "NYG",
+    "grade": 62.2
+  },
+  {
+    "player": "Kimani Vidal",
+    "position": "RB",
+    "season": "2025",
+    "team": "LAC",
+    "grade": 61.8
+  },
+  {
+    "player": "Quinshon Judkins",
+    "position": "RB",
+    "season": "2025",
+    "team": "CLE",
+    "grade": 61.4
+  },
+  {
+    "player": "RJ Harvey",
+    "position": "RB",
+    "season": "2025",
+    "team": "DEN",
+    "grade": 61.3
+  },
+  {
+    "player": "Chuba Hubbard",
+    "position": "RB",
+    "season": "2025",
+    "team": "CAR",
+    "grade": 60.4
+  },
+  {
+    "player": "Woody Marks",
+    "position": "RB",
+    "season": "2025",
+    "team": "HOU",
+    "grade": 59.6
+  },
+  {
+    "player": "Bhayshul Tuten",
+    "position": "RB",
+    "season": "2025",
+    "team": "JAX",
+    "grade": 59.2
+  },
+  {
+    "player": "Bam Knight",
+    "position": "RB",
+    "season": "2025",
+    "team": "ARI",
+    "grade": 57.8
+  },
+  {
+    "player": "Bucky Irving",
+    "position": "RB",
+    "season": "2025",
+    "team": "TB",
+    "grade": 57.7
+  },
+  {
+    "player": "Isiah Pacheco",
+    "position": "RB",
+    "season": "2025",
+    "team": "KC",
+    "grade": 56.6
+  },
+  {
+    "player": "Alvin Kamara",
+    "position": "RB",
+    "season": "2025",
+    "team": "NO",
+    "grade": 52.6
+  },
+  {
+    "player": "Puka Nacua",
+    "position": "WR",
+    "season": "2025",
+    "team": "LAR",
+    "grade": 96.3
+  },
+  {
+    "player": "Jaxon Smith-Njigba",
+    "position": "WR",
+    "season": "2025",
+    "team": "SEA",
+    "grade": 91.2
+  },
+  {
+    "player": "George Pickens",
+    "position": "WR",
+    "season": "2025",
+    "team": "DAL",
+    "grade": 88.7
+  },
+  {
+    "player": "Terry McLaurin",
+    "position": "WR",
+    "season": "2025",
+    "team": "WAS",
+    "grade": 88.2
+  },
+  {
+    "player": "Stefon Diggs",
+    "position": "WR",
+    "season": "2025",
+    "team": "NE",
+    "grade": 87.2
+  },
+  {
+    "player": "Amon-Ra St. Brown",
+    "position": "WR",
+    "season": "2025",
+    "team": "DET",
+    "grade": 86.6
+  },
+  {
+    "player": "Christian Watson",
+    "position": "WR",
+    "season": "2025",
+    "team": "GB",
+    "grade": 86
+  },
+  {
+    "player": "Alec Pierce",
+    "position": "WR",
+    "season": "2025",
+    "team": "IND",
+    "grade": 85.1
+  },
+  {
+    "player": "Drake London",
+    "position": "WR",
+    "season": "2025",
+    "team": "ATL",
+    "grade": 84.6
+  },
+  {
+    "player": "Ja'Marr Chase",
+    "position": "WR",
+    "season": "2025",
+    "team": "CIN",
+    "grade": 84.5
+  },
+  {
+    "player": "Nico Collins",
+    "position": "WR",
+    "season": "2025",
+    "team": "HOU",
+    "grade": 84.2
+  },
+  {
+    "player": "Malik Nabers",
+    "position": "WR",
+    "season": "2025",
+    "team": "NYG",
+    "grade": 83.3
+  },
+  {
+    "player": "Jameson Williams",
+    "position": "WR",
+    "season": "2025",
+    "team": "DET",
+    "grade": 82.9
+  },
+  {
+    "player": "Parker Washington",
+    "position": "WR",
+    "season": "2025",
+    "team": "JAX",
+    "grade": 82.3
+  },
+  {
+    "player": "Jaylen Waddle",
+    "position": "WR",
+    "season": "2025",
+    "team": "MIA",
+    "grade": 82.1
+  },
+  {
+    "player": "Zay Flowers",
+    "position": "WR",
+    "season": "2025",
+    "team": "BAL",
+    "grade": 82
+  },
+  {
+    "player": "Tee Higgins",
+    "position": "WR",
+    "season": "2025",
+    "team": "CIN",
+    "grade": 81.9
+  },
+  {
+    "player": "Kayshon Boutte",
+    "position": "WR",
+    "season": "2025",
+    "team": "NE",
+    "grade": 81.6
+  },
+  {
+    "player": "Tetairoa McMillan",
+    "position": "WR",
+    "season": "2025",
+    "team": "CAR",
+    "grade": 81.4
+  },
+  {
+    "player": "Davante Adams",
+    "position": "WR",
+    "season": "2025",
+    "team": "LAR",
+    "grade": 80.8
+  },
+  {
+    "player": "A.J. Brown",
+    "position": "WR",
+    "season": "2025",
+    "team": "PHI",
+    "grade": 80.4
+  },
+  {
+    "player": "DeVonta Smith",
+    "position": "WR",
+    "season": "2025",
+    "team": "PHI",
+    "grade": 80
+  },
+  {
+    "player": "CeeDee Lamb",
+    "position": "WR",
+    "season": "2025",
+    "team": "DAL",
+    "grade": 79.9
+  },
+  {
+    "player": "DeAndre Hopkins",
+    "position": "WR",
+    "season": "2025",
+    "team": "BAL",
+    "grade": 79.3
+  },
+  {
+    "player": "Luther Burden III",
+    "position": "WR",
+    "season": "2025",
+    "team": "CHI",
+    "grade": 79
+  },
+  {
+    "player": "Justin Jefferson",
+    "position": "WR",
+    "season": "2025",
+    "team": "MIN",
+    "grade": 78.5
+  },
+  {
+    "player": "DK Metcalf",
+    "position": "WR",
+    "season": "2025",
+    "team": "PIT",
+    "grade": 78.4
+  },
+  {
+    "player": "Michael Wilson",
+    "position": "WR",
+    "season": "2025",
+    "team": "ARI",
+    "grade": 77.9
+  },
+  {
+    "player": "Courtland Sutton",
+    "position": "WR",
+    "season": "2025",
+    "team": "DEN",
+    "grade": 77.8
+  },
+  {
+    "player": "Rome Odunze",
+    "position": "WR",
+    "season": "2025",
+    "team": "CHI",
+    "grade": 77.2
+  },
+  {
+    "player": "Tyreek Hill",
+    "position": "WR",
+    "season": "2025",
+    "team": "MIA",
+    "grade": 77.2
+  },
+  {
+    "player": "Romeo Doubs",
+    "position": "WR",
+    "season": "2025",
+    "team": "GB",
+    "grade": 76.8
+  },
+  {
+    "player": "Chris Olave",
+    "position": "WR",
+    "season": "2025",
+    "team": "NO",
+    "grade": 76.6
+  },
+  {
+    "player": "Keenan Allen",
+    "position": "WR",
+    "season": "2025",
+    "team": "LAC",
+    "grade": 76.5
+  },
+  {
+    "player": "Rashee Rice",
+    "position": "WR",
+    "season": "2025",
+    "team": "KC",
+    "grade": 76.4
+  },
+  {
+    "player": "Ricky Pearsall",
+    "position": "WR",
+    "season": "2025",
+    "team": "SF",
+    "grade": 76.1
+  },
+  {
+    "player": "Marvin Harrison Jr.",
+    "position": "WR",
+    "season": "2025",
+    "team": "ARI",
+    "grade": 75
+  },
+  {
+    "player": "Cooper Kupp",
+    "position": "WR",
+    "season": "2025",
+    "team": "SEA",
+    "grade": 74.8
+  },
+  {
+    "player": "Mack Hollins",
+    "position": "WR",
+    "season": "2025",
+    "team": "NE",
+    "grade": 74.8
+  },
+  {
+    "player": "Josh Downs",
+    "position": "WR",
+    "season": "2025",
+    "team": "IND",
+    "grade": 74.6
+  },
+  {
+    "player": "Jordan Addison",
+    "position": "WR",
+    "season": "2025",
+    "team": "MIN",
+    "grade": 74.4
+  },
+  {
+    "player": "Xavier Worthy",
+    "position": "WR",
+    "season": "2025",
+    "team": "KC",
+    "grade": 74
+  },
+  {
+    "player": "Jakobi Meyers",
+    "position": "WR",
+    "season": "2025",
+    "team": "JAX",
+    "grade": 73.9
+  },
+  {
+    "player": "Deebo Samuel Sr.",
+    "position": "WR",
+    "season": "2025",
+    "team": "WAS",
+    "grade": 73.4
+  },
+  {
+    "player": "Ladd McConkey",
+    "position": "WR",
+    "season": "2025",
+    "team": "LAC",
+    "grade": 73.4
+  },
+  {
+    "player": "Quentin Johnston",
+    "position": "WR",
+    "season": "2025",
+    "team": "LAC",
+    "grade": 73.3
+  },
+  {
+    "player": "DeMario Douglas",
+    "position": "WR",
+    "season": "2025",
+    "team": "NE",
+    "grade": 73.2
+  },
+  {
+    "player": "Wan'Dale Robinson",
+    "position": "WR",
+    "season": "2025",
+    "team": "NYG",
+    "grade": 73.1
+  },
+  {
+    "player": "Jauan Jennings",
+    "position": "WR",
+    "season": "2025",
+    "team": "SF",
+    "grade": 72.9
+  },
+  {
+    "player": "Mike Evans",
+    "position": "WR",
+    "season": "2025",
+    "team": "TB",
+    "grade": 72.8
+  },
+  {
+    "player": "Garrett Wilson",
+    "position": "WR",
+    "season": "2025",
+    "team": "NYJ",
+    "grade": 72.5
+  },
+  {
+    "player": "Jalen Coker",
+    "position": "WR",
+    "season": "2025",
+    "team": "CAR",
+    "grade": 72.2
+  },
+  {
+    "player": "Khalil Shakir",
+    "position": "WR",
+    "season": "2025",
+    "team": "BUF",
+    "grade": 72.1
+  },
+  {
+    "player": "Emeka Egbuka",
+    "position": "WR",
+    "season": "2025",
+    "team": "TB",
+    "grade": 72.1
+  },
+  {
+    "player": "Kendrick Bourne",
+    "position": "WR",
+    "season": "2025",
+    "team": "SF",
+    "grade": 72
+  },
+  {
+    "player": "Luke McCaffrey",
+    "position": "WR",
+    "season": "2025",
+    "team": "WAS",
+    "grade": 71.9
+  },
+  {
+    "player": "Marquise Brown",
+    "position": "WR",
+    "season": "2025",
+    "team": "KC",
+    "grade": 71.9
+  },
+  {
+    "player": "Tyquan Thornton",
+    "position": "WR",
+    "season": "2025",
+    "team": "KC",
+    "grade": 71.7
+  },
+  {
+    "player": "Michael Pittman",
+    "position": "WR",
+    "season": "2025",
+    "team": "IND",
+    "grade": 71.4
+  },
+  {
+    "player": "DJ Moore",
+    "position": "WR",
+    "season": "2025",
+    "team": "CHI",
+    "grade": 71.3
+  },
+  {
+    "player": "Devaughn Vele",
+    "position": "WR",
+    "season": "2025",
+    "team": "NO",
+    "grade": 71.3
+  },
+  {
+    "player": "Jayden Higgins",
+    "position": "WR",
+    "season": "2025",
+    "team": "HOU",
+    "grade": 70.9
+  },
+  {
+    "player": "Brian Thomas Jr.",
+    "position": "WR",
+    "season": "2025",
+    "team": "JAX",
+    "grade": 70.6
+  },
+  {
+    "player": "Kalif Raymond",
+    "position": "WR",
+    "season": "2025",
+    "team": "DET",
+    "grade": 70.1
+  },
+  {
+    "player": "Tre Tucker",
+    "position": "WR",
+    "season": "2025",
+    "team": "LV",
+    "grade": 70.1
+  },
+  {
+    "player": "Dontayvion Wicks",
+    "position": "WR",
+    "season": "2025",
+    "team": "GB",
+    "grade": 69.9
+  },
+  {
+    "player": "Matthew Golden",
+    "position": "WR",
+    "season": "2025",
+    "team": "GB",
+    "grade": 69.7
+  },
+  {
+    "player": "Ryan Flournoy",
+    "position": "WR",
+    "season": "2025",
+    "team": "DAL",
+    "grade": 69.5
+  },
+  {
+    "player": "Calvin Ridley",
+    "position": "WR",
+    "season": "2025",
+    "team": "TEN",
+    "grade": 68.9
+  },
+  {
+    "player": "Chris Godwin Jr.",
+    "position": "WR",
+    "season": "2025",
+    "team": "TB",
+    "grade": 68.7
+  },
+  {
+    "player": "Jalen Nailor",
+    "position": "WR",
+    "season": "2025",
+    "team": "MIN",
+    "grade": 68.1
+  },
+  {
+    "player": "Demarcus Robinson",
+    "position": "WR",
+    "season": "2025",
+    "team": "SF",
+    "grade": 68
+  },
+  {
+    "player": "Xavier Hutchinson",
+    "position": "WR",
+    "season": "2025",
+    "team": "HOU",
+    "grade": 67.4
+  },
+  {
+    "player": "Rashid Shaheed",
+    "position": "WR",
+    "season": "2025",
+    "team": "SEA",
+    "grade": 67.1
+  },
+  {
+    "player": "Keon Coleman",
+    "position": "WR",
+    "season": "2025",
+    "team": "BUF",
+    "grade": 67
+  },
+  {
+    "player": "Travis Hunter",
+    "position": "WR",
+    "season": "2025",
+    "team": "JAX",
+    "grade": 67
+  },
+  {
+    "player": "KaVontae Turpin",
+    "position": "WR",
+    "season": "2025",
+    "team": "DAL",
+    "grade": 66.8
+  },
+  {
+    "player": "Tez Johnson",
+    "position": "WR",
+    "season": "2025",
+    "team": "TB",
+    "grade": 66.6
+  },
+  {
+    "player": "Marvin Mims Jr.",
+    "position": "WR",
+    "season": "2025",
+    "team": "DEN",
+    "grade": 66.5
+  },
+  {
+    "player": "Jaylin Noel",
+    "position": "WR",
+    "season": "2025",
+    "team": "HOU",
+    "grade": 66
+  },
+  {
+    "player": "Tre Harris",
+    "position": "WR",
+    "season": "2025",
+    "team": "LAC",
+    "grade": 65.9
+  },
+  {
+    "player": "Pat Bryant",
+    "position": "WR",
+    "season": "2025",
+    "team": "DEN",
+    "grade": 65.6
+  },
+  {
+    "player": "Jimmy Horn Jr",
+    "position": "WR",
+    "season": "2025",
+    "team": "CAR",
+    "grade": 65.3
+  },
+  {
+    "player": "Troy Franklin",
+    "position": "WR",
+    "season": "2025",
+    "team": "DEN",
+    "grade": 65
+  },
+  {
+    "player": "Adonai Mitchell",
+    "position": "WR",
+    "season": "2025",
+    "team": "NYJ",
+    "grade": 64.3
+  },
+  {
+    "player": "Efton Chism III",
+    "position": "WR",
+    "season": "2025",
+    "team": "NE",
+    "grade": 64.2
+  },
+  {
+    "player": "Jack Bech",
+    "position": "WR",
+    "season": "2025",
+    "team": "LV",
+    "grade": 64.1
+  },
+  {
+    "player": "Elic Ayomanor",
+    "position": "WR",
+    "season": "2025",
+    "team": "TEN",
+    "grade": 64.1
+  },
+  {
+    "player": "Greg Dortch",
+    "position": "WR",
+    "season": "2025",
+    "team": "ARI",
+    "grade": 64
+  },
+  {
+    "player": "Isaiah Williams",
+    "position": "WR",
+    "season": "2025",
+    "team": "NYJ",
+    "grade": 63.8
+  },
+  {
+    "player": "Isaac TeSlaa",
+    "position": "WR",
+    "season": "2025",
+    "team": "DET",
+    "grade": 63.8
+  },
+  {
+    "player": "Malik Washington",
+    "position": "WR",
+    "season": "2025",
+    "team": "MIA",
+    "grade": 63.8
+  },
+  {
+    "player": "Darius Slayton",
+    "position": "WR",
+    "season": "2025",
+    "team": "NYG",
+    "grade": 63.7
+  },
+  {
+    "player": "Jayen Reed",
+    "position": "WR",
+    "season": "2025",
+    "team": "GB",
+    "grade": 63.4
+  },
+  {
+    "player": "JuJu Smith-Schuster",
+    "position": "WR",
+    "season": "2025",
+    "team": "KC",
+    "grade": 63.3
+  },
+  {
+    "player": "Jalen Tolbert",
+    "position": "WR",
+    "season": "2025",
+    "team": "DAL",
+    "grade": 63.2
+  },
+  {
+    "player": "Jerry Jeudy",
+    "position": "WR",
+    "season": "2025",
+    "team": "CLE",
+    "grade": 62.7
+  },
+  {
+    "player": "KeAndre Lambert-Smith",
+    "position": "WR",
+    "season": "2025",
+    "team": "LAC",
+    "grade": 62.7
+  },
+  {
+    "player": "Chimere Dike",
+    "position": "WR",
+    "season": "2025",
+    "team": "TEN",
+    "grade": 62.5
+  },
+  {
+    "player": "Kyle Williams",
+    "position": "WR",
+    "season": "2025",
+    "team": "NE",
+    "grade": 62.3
+  },
+  {
+    "player": "Brandin Cooks",
+    "position": "WR",
+    "season": "2025",
+    "team": "BUF",
+    "grade": 61.9
+  },
+  {
+    "player": "Isaiah Bond",
+    "position": "WR",
+    "season": "2025",
+    "team": "CLE",
+    "grade": 61.6
+  },
+  {
+    "player": "Van Jefferson",
+    "position": "WR",
+    "season": "2025",
+    "team": "TEN",
+    "grade": 61.4
+  },
+  {
+    "player": "John Metchie III",
+    "position": "WR",
+    "season": "2025",
+    "team": "NYJ",
+    "grade": 61.3
+  },
+  {
+    "player": "Jahan Dotson",
+    "position": "WR",
+    "season": "2025",
+    "team": "PHI",
+    "grade": 61.2
+  },
+  {
+    "player": "Josh Palmer",
+    "position": "WR",
+    "season": "2025",
+    "team": "BUF",
+    "grade": 61
+  },
+  {
+    "player": "Rashod Bateman",
+    "position": "WR",
+    "season": "2025",
+    "team": "BAL",
+    "grade": 61
+  },
+  {
+    "player": "Christian Kirk",
+    "position": "WR",
+    "season": "2025",
+    "team": "HOU",
+    "grade": 60.9
+  },
+  {
+    "player": "Calvin Austin III",
+    "position": "WR",
+    "season": "2025",
+    "team": "PIT",
+    "grade": 60.8
+  },
+  {
+    "player": "Cedric Tillman",
+    "position": "WR",
+    "season": "2025",
+    "team": "CLE",
+    "grade": 60.8
+  },
+  {
+    "player": "Sterling Shepard",
+    "position": "WR",
+    "season": "2025",
+    "team": "TB",
+    "grade": 60.7
+  },
+  {
+    "player": "Tyler Lockett",
+    "position": "WR",
+    "season": "2025",
+    "team": "LV",
+    "grade": 60
+  },
+  {
+    "player": "Darnell Mooney",
+    "position": "WR",
+    "season": "2025",
+    "team": "ATL",
+    "grade": 60
+  },
+  {
+    "player": "Dyami Brown",
+    "position": "WR",
+    "season": "2025",
+    "team": "JAX",
+    "grade": 59.5
+  },
+  {
+    "player": "Xavier Legette",
+    "position": "WR",
+    "season": "2025",
+    "team": "CAR",
+    "grade": 59.3
+  },
+  {
+    "player": "Jaylin Lane",
+    "position": "WR",
+    "season": "2025",
+    "team": "WAS",
+    "grade": 59
+  },
+  {
+    "player": "Adam Thielen",
+    "position": "WR",
+    "season": "2025",
+    "team": "PIT",
+    "grade": 59
+  },
+  {
+    "player": "Andrei Iosivas",
+    "position": "WR",
+    "season": "2025",
+    "team": "CIN",
+    "grade": 58.8
+  },
+  {
+    "player": "Olamide Zaccheaus",
+    "position": "WR",
+    "season": "2025",
+    "team": "CHI",
+    "grade": 58.6
+  },
+  {
+    "player": "Dont'e Thornton Jr.",
+    "position": "WR",
+    "season": "2025",
+    "team": "LV",
+    "grade": 58
+  },
+  {
+    "player": "David Sills",
+    "position": "WR",
+    "season": "2025",
+    "team": "ATL",
+    "grade": 56.6
+  },
+  {
+    "player": "Konata Mumpfield",
+    "position": "WR",
+    "season": "2025",
+    "team": "LAR",
+    "grade": 55
+  },
+  {
+    "player": "Tucker Kraft",
+    "position": "TE",
+    "season": "2025",
+    "team": "GB",
+    "grade": 89.6
+  },
+  {
+    "player": "George Kittle",
+    "position": "TE",
+    "season": "2025",
+    "team": "SF",
+    "grade": 85.9
+  },
+  {
+    "player": "Sam LaPorta",
+    "position": "TE",
+    "season": "2025",
+    "team": "DET",
+    "grade": 85.6
+  },
+  {
+    "player": "Dalton Kincaid",
+    "position": "TE",
+    "season": "2025",
+    "team": "BUF",
+    "grade": 84.2
+  },
+  {
+    "player": "Darren Waller",
+    "position": "TE",
+    "season": "2025",
+    "team": "MIA",
+    "grade": 82.3
+  },
+  {
+    "player": "Jackson Hawes",
+    "position": "TE",
+    "season": "2025",
+    "team": "BUF",
+    "grade": 82.3
+  },
+  {
+    "player": "Trey McBride",
+    "position": "TE",
+    "season": "2025",
+    "team": "ARI",
+    "grade": 81.9
+  },
+  {
+    "player": "Colston Loveland",
+    "position": "TE",
+    "season": "2025",
+    "team": "CHI",
+    "grade": 81.5
+  },
+  {
+    "player": "Hunter Henry",
+    "position": "TE",
+    "season": "2025",
+    "team": "NE",
+    "grade": 78.3
+  },
+  {
+    "player": "Brenton Strange",
+    "position": "TE",
+    "season": "2025",
+    "team": "JAX",
+    "grade": 77.6
+  },
+  {
+    "player": "Daniel Bellinger",
+    "position": "TE",
+    "season": "2025",
+    "team": "NYG",
+    "grade": 77
+  },
+  {
+    "player": "Charlie Kolar",
+    "position": "TE",
+    "season": "2025",
+    "team": "LAC",
+    "grade": 76.9
+  },
+  {
+    "player": "Brock Bowers",
+    "position": "TE",
+    "season": "2025",
+    "team": "LV",
+    "grade": 76.3
+  },
+  {
+    "player": "Colby Parkinson",
+    "position": "TE",
+    "season": "2025",
+    "team": "LAR",
+    "grade": 74.5
+  },
+  {
+    "player": "AJ Barner",
+    "position": "TE",
+    "season": "2025",
+    "team": "SEA",
+    "grade": 74.3
+  },
+  {
+    "player": "Travis Kelce",
+    "position": "TE",
+    "season": "2025",
+    "team": "KC",
+    "grade": 73.9
+  },
+  {
+    "player": "Kyle Pitts",
+    "position": "TE",
+    "season": "2025",
+    "team": "ATL",
+    "grade": 73.3
+  },
+  {
+    "player": "Pat Freiermuth",
+    "position": "TE",
+    "season": "2025",
+    "team": "PIT",
+    "grade": 73.2
+  },
+  {
+    "player": "Dalton Schultz",
+    "position": "TE",
+    "season": "2025",
+    "team": "HOU",
+    "grade": 73
+  },
+  {
+    "player": "Darnell Washington",
+    "position": "TE",
+    "season": "2025",
+    "team": "PIT",
+    "grade": 72.9
+  },
+  {
+    "player": "Tyler Higbee",
+    "position": "TE",
+    "season": "2025",
+    "team": "LAR",
+    "grade": 72.9
+  },
+  {
+    "player": "Jake Tonges",
+    "position": "TE",
+    "season": "2025",
+    "team": "SF",
+    "grade": 72.8
+  },
+  {
+    "player": "Josh Oliver",
+    "position": "TE",
+    "season": "2025",
+    "team": "MIN",
+    "grade": 72.7
+  },
+  {
+    "player": "Mike Gesicki",
+    "position": "TE",
+    "season": "2025",
+    "team": "CIN",
+    "grade": 72.6
+  },
+  {
+    "player": "Dawson Knox",
+    "position": "TE",
+    "season": "2025",
+    "team": "BUF",
+    "grade": 71.6
+  },
+  {
+    "player": "Austin Hooper",
+    "position": "TE",
+    "season": "2025",
+    "team": "NE",
+    "grade": 71.6
+  },
+  {
+    "player": "Tyler Warren",
+    "position": "TE",
+    "season": "2025",
+    "team": "IND",
+    "grade": 71.3
+  },
+  {
+    "player": "Terrance Ferguson",
+    "position": "TE",
+    "season": "2025",
+    "team": "LAR",
+    "grade": 70.6
+  },
+  {
+    "player": "Dallas Goedert",
+    "position": "TE",
+    "season": "2025",
+    "team": "PHI",
+    "grade": 70.2
+  },
+  {
+    "player": "Harold Fannin Jr.",
+    "position": "TE",
+    "season": "2025",
+    "team": "CLE",
+    "grade": 69.2
+  },
+  {
+    "player": "Juwan Johnson",
+    "position": "TE",
+    "season": "2025",
+    "team": "NO",
+    "grade": 69.1
+  },
+  {
+    "player": "Mitchell Evans",
+    "position": "TE",
+    "season": "2025",
+    "team": "CAR",
+    "grade": 68.8
+  },
+  {
+    "player": "Oronde Gadsden II",
+    "position": "TE",
+    "season": "2025",
+    "team": "LAC",
+    "grade": 68.8
+  },
+  {
+    "player": "Cole Kmet",
+    "position": "TE",
+    "season": "2025",
+    "team": "CHI",
+    "grade": 67.4
+  },
+  {
+    "player": "Mo Alie-Cox",
+    "position": "TE",
+    "season": "2025",
+    "team": "IND",
+    "grade": 66.8
+  },
+  {
+    "player": "Mark Andrews",
+    "position": "TE",
+    "season": "2025",
+    "team": "BAL",
+    "grade": 66.3
+  },
+  {
+    "player": "T.J. Hockenson",
+    "position": "TE",
+    "season": "2025",
+    "team": "MIN",
+    "grade": 66.2
+  },
+  {
+    "player": "Michael Mayer",
+    "position": "TE",
+    "season": "2025",
+    "team": "LV",
+    "grade": 66.1
+  },
+  {
+    "player": "John Bates",
+    "position": "TE",
+    "season": "2025",
+    "team": "WAS",
+    "grade": 65.9
+  },
+  {
+    "player": "Theo Johnson",
+    "position": "TE",
+    "season": "2025",
+    "team": "NYG",
+    "grade": 65.8
+  },
+  {
+    "player": "Tommy Tremble",
+    "position": "TE",
+    "season": "2025",
+    "team": "CAR",
+    "grade": 65.5
+  },
+  {
+    "player": "Johnny Mundt",
+    "position": "TE",
+    "season": "2025",
+    "team": "PHI",
+    "grade": 65.5
+  },
+  {
+    "player": "Chig Okonkwo",
+    "position": "TE",
+    "season": "2025",
+    "team": "WAS",
+    "grade": 65.3
+  },
+  {
+    "player": "Elijah Higgins",
+    "position": "TE",
+    "season": "2025",
+    "team": "ARI",
+    "grade": 64.9
+  },
+  {
+    "player": "Gunnar Helm",
+    "position": "TE",
+    "season": "2025",
+    "team": "TEN",
+    "grade": 64.9
+  },
+  {
+    "player": "Davis Allen",
+    "position": "TE",
+    "season": "2025",
+    "team": "LAR",
+    "grade": 64.5
+  },
+  {
+    "player": "Ben Sinnott",
+    "position": "TE",
+    "season": "2025",
+    "team": "WAS",
+    "grade": 64.5
+  },
+  {
+    "player": "Zach Ertz",
+    "position": "TE",
+    "season": "2025",
+    "team": "WAS",
+    "grade": 64.1
+  },
+  {
+    "player": "Jake Ferguson",
+    "position": "TE",
+    "season": "2025",
+    "team": "DAL",
+    "grade": 63.8
+  },
+  {
+    "player": "Adam Trautman",
+    "position": "TE",
+    "season": "2025",
+    "team": "DEN",
+    "grade": 63.6
+  },
+  {
+    "player": "David Njoku",
+    "position": "TE",
+    "season": "2025",
+    "team": "LAC",
+    "grade": 63.5
+  },
+  {
+    "player": "John FitzPatrick",
+    "position": "TE",
+    "season": "2025",
+    "team": "GB",
+    "grade": 63.3
+  },
+  {
+    "player": "Cade Otton",
+    "position": "TE",
+    "season": "2025",
+    "team": "TB",
+    "grade": 63.1
+  },
+  {
+    "player": "Mason Taylor",
+    "position": "TE",
+    "season": "2025",
+    "team": "NYJ",
+    "grade": 62.6
+  },
+  {
+    "player": "Isaiah Likely",
+    "position": "TE",
+    "season": "2025",
+    "team": "NYG",
+    "grade": 62.5
+  },
+  {
+    "player": "Julian Hill",
+    "position": "TE",
+    "season": "2025",
+    "team": "NE",
+    "grade": 61.7
+  },
+  {
+    "player": "Brock Wright",
+    "position": "TE",
+    "season": "2025",
+    "team": "DET",
+    "grade": 61.5
+  },
+  {
+    "player": "Evan Engram",
+    "position": "TE",
+    "season": "2025",
+    "team": "DEN",
+    "grade": 61.4
+  },
+  {
+    "player": "Jeremy Ruckert",
+    "position": "TE",
+    "season": "2025",
+    "team": "NYJ",
+    "grade": 61.3
+  },
+  {
+    "player": "Luke Musgrave",
+    "position": "TE",
+    "season": "2025",
+    "team": "GB",
+    "grade": 61.1
+  },
+  {
+    "player": "Luke Schoonmaker",
+    "position": "TE",
+    "season": "2025",
+    "team": "DAL",
+    "grade": 60.7
+  },
+  {
+    "player": "Noah Gray",
+    "position": "TE",
+    "season": "2025",
+    "team": "KC",
+    "grade": 60.1
+  },
+  {
+    "player": "Drew Sample",
+    "position": "TE",
+    "season": "2025",
+    "team": "CIN",
+    "grade": 59.4
+  },
+  {
+    "player": "Elijah Arroyo",
+    "position": "TE",
+    "season": "2025",
+    "team": "SEA",
+    "grade": 59
+  },
+  {
+    "player": "Ja'Tavion Sanders",
+    "position": "TE",
+    "season": "2025",
+    "team": "CAR",
+    "grade": 58.2
+  },
+  {
+    "player": "Noah Fant",
+    "position": "TE",
+    "season": "2025",
+    "team": "NO",
+    "grade": 57.5
+  },
+  {
+    "player": "Jonnu Smith",
+    "position": "TE",
+    "season": "2025",
+    "team": "PIT",
+    "grade": 57.4
+  },
+  {
+    "player": "Creed Humphrey",
+    "position": "OC",
+    "season": "2025",
+    "team": "KC",
+    "grade": 89.7
+  },
+  {
+    "player": "Ryan Neuzil",
+    "position": "OC",
+    "season": "2025",
+    "team": "ATL",
+    "grade": 87.7
+  },
+  {
+    "player": "Aaron Brewer",
+    "position": "OC",
+    "season": "2025",
+    "team": "MIA",
+    "grade": 87.4
+  },
+  {
+    "player": "Tyler Linderbaum",
+    "position": "OC",
+    "season": "2025",
+    "team": "BAL",
+    "grade": 85.9
+  },
+  {
+    "player": "Tanor Bortolini",
+    "position": "OC",
+    "season": "2025",
+    "team": "IND",
+    "grade": 84.6
+  },
+  {
+    "player": "Zach Frazier",
+    "position": "OC",
+    "season": "2025",
+    "team": "PIT",
+    "grade": 80.1
+  },
+  {
+    "player": "Ryan Kelly",
+    "position": "OC",
+    "season": "2025",
+    "team": "MIN",
+    "grade": 79.6
+  },
+  {
+    "player": "Cooper Beebe",
+    "position": "OC",
+    "season": "2025",
+    "team": "DAL",
+    "grade": 79.2
+  },
+  {
+    "player": "Jake Brendel",
+    "position": "OC",
+    "season": "2025",
+    "team": "SF",
+    "grade": 78.7
+  },
+  {
+    "player": "Luke Wattenberg",
+    "position": "OC",
+    "season": "2025",
+    "team": "DEN",
+    "grade": 78.7
+  },
+  {
+    "player": "Drew Dalman",
+    "position": "OC",
+    "season": "2025",
+    "team": "CHI",
+    "grade": 78.5
+  },
+  {
+    "player": "Erik McCoy",
+    "position": "OC",
+    "season": "2025",
+    "team": "NO",
+    "grade": 76.5
+  },
+  {
+    "player": "Connor McGovern",
+    "position": "OC",
+    "season": "2025",
+    "team": "BUF",
+    "grade": 76.5
+  },
+  {
+    "player": "Cam Jurgens",
+    "position": "OC",
+    "season": "2025",
+    "team": "PHI",
+    "grade": 75.5
+  },
+  {
+    "player": "Ted Karras",
+    "position": "OC",
+    "season": "2025",
+    "team": "CIN",
+    "grade": 73.2
+  },
+  {
+    "player": "Coleman Shelton",
+    "position": "OC",
+    "season": "2025",
+    "team": "LAR",
+    "grade": 73
+  },
+  {
+    "player": "Elgton Jenkins",
+    "position": "OC",
+    "season": "2025",
+    "team": "GB",
+    "grade": 72.5
+  },
+  {
+    "player": "Jake Andrews",
+    "position": "OC",
+    "season": "2025",
+    "team": "HOU",
+    "grade": 72
+  },
+  {
+    "player": "Austin Corbett",
+    "position": "OC",
+    "season": "2025",
+    "team": "CAR",
+    "grade": 71.2
+  },
+  {
+    "player": "Tyler Biadasz",
+    "position": "OC",
+    "season": "2025",
+    "team": "WAS",
+    "grade": 71
+  },
+  {
+    "player": "Hjalte Froholdt",
+    "position": "OC",
+    "season": "2025",
+    "team": "ARI",
+    "grade": 70.9
+  },
+  {
+    "player": "Robert Hainsey",
+    "position": "OC",
+    "season": "2025",
+    "team": "JAX",
+    "grade": 70.4
+  },
+  {
+    "player": "Ethan Pocic",
+    "position": "OC",
+    "season": "2025",
+    "team": "CLE",
+    "grade": 70.3
+  },
+  {
+    "player": "Graham Barton",
+    "position": "OC",
+    "season": "2025",
+    "team": "TB",
+    "grade": 70.3
+  },
+  {
+    "player": "John Michael Schmitz",
+    "position": "OC",
+    "season": "2025",
+    "team": "NYG",
+    "grade": 69.8
+  },
+  {
+    "player": "Jalen Sundell",
+    "position": "OC",
+    "season": "2025",
+    "team": "SEA",
+    "grade": 68.6
+  },
+  {
+    "player": "Garrett Bradbury",
+    "position": "OC",
+    "season": "2025",
+    "team": "NE",
+    "grade": 68.3
+  },
+  {
+    "player": "Luke Fortner",
+    "position": "OC",
+    "season": "2025",
+    "team": "NO",
+    "grade": 65.4
+  },
+  {
+    "player": "Lloyd Cushenberry III",
+    "position": "OC",
+    "season": "2025",
+    "team": "TEN",
+    "grade": 64.9
+  },
+  {
+    "player": "Cade Mays",
+    "position": "OC",
+    "season": "2025",
+    "team": "CAR",
+    "grade": 64.2
+  },
+  {
+    "player": "Bradley Bozeman",
+    "position": "OC",
+    "season": "2025",
+    "team": "LAC",
+    "grade": 64.1
+  },
+  {
+    "player": "Josh Myers",
+    "position": "OC",
+    "season": "2025",
+    "team": "NYJ",
+    "grade": 63.5
+  },
+  {
+    "player": "Sean Rhyan",
+    "position": "OC",
+    "season": "2025",
+    "team": "GB",
+    "grade": 63.2
+  },
+  {
+    "player": "Graham Glasgow",
+    "position": "OC",
+    "season": "2025",
+    "team": "DET",
+    "grade": 62.3
+  },
+  {
+    "player": "Jordan Meredith",
+    "position": "OC",
+    "season": "2025",
+    "team": "LV",
+    "grade": 60.5
+  },
+  {
+    "player": "Blake Brandel",
+    "position": "OC",
+    "season": "2025",
+    "team": "MIN",
+    "grade": 60.1
+  },
+  {
+    "player": "Olu Oluwatimi",
+    "position": "OC",
+    "season": "2025",
+    "team": "SEA",
+    "grade": 59.3
+  },
+  {
+    "player": "Brock Hoffman",
+    "position": "OC",
+    "season": "2025",
+    "team": "DAL",
+    "grade": 56
+  },
+  {
+    "player": "Alex Cappa",
+    "position": "OC",
+    "season": "2025",
+    "team": "LV",
+    "grade": 53.7
+  },
+  {
+    "player": "Chris Lindstrom",
+    "position": "OG",
+    "season": "2025",
+    "team": "ATL",
+    "grade": 86
+  },
+  {
+    "player": "Quinn Meinerz",
+    "position": "OG",
+    "season": "2025",
+    "team": "DEN",
+    "grade": 86
+  },
+  {
+    "player": "Quenton Nelson",
+    "position": "OG",
+    "season": "2025",
+    "team": "IND",
+    "grade": 84.2
+  },
+  {
+    "player": "Kevin Dotson",
+    "position": "OG",
+    "season": "2025",
+    "team": "LAR",
+    "grade": 84.2
+  },
+  {
+    "player": "Joe Thuney",
+    "position": "OG",
+    "season": "2025",
+    "team": "CHI",
+    "grade": 84.1
+  },
+  {
+    "player": "Peter Skoronski",
+    "position": "OG",
+    "season": "2025",
+    "team": "TEN",
+    "grade": 82
+  },
+  {
+    "player": "Damien Lewis",
+    "position": "OG",
+    "season": "2025",
+    "team": "CAR",
+    "grade": 81.4
+  },
+  {
+    "player": "Mike Onwenu",
+    "position": "OG",
+    "season": "2025",
+    "team": "NE",
+    "grade": 79.7
+  },
+  {
+    "player": "Tyler Smith",
+    "position": "OG",
+    "season": "2025",
+    "team": "DAL",
+    "grade": 79.4
+  },
+  {
+    "player": "Isaac Seumalo",
+    "position": "OG",
+    "season": "2025",
+    "team": "ARI",
+    "grade": 78.9
+  },
+  {
+    "player": "Jonah Jackson",
+    "position": "OG",
+    "season": "2025",
+    "team": "CHI",
+    "grade": 77.1
+  },
+  {
+    "player": "Tyler Booker",
+    "position": "OG",
+    "season": "2025",
+    "team": "DAL",
+    "grade": 76.6
+  },
+  {
+    "player": "Dominick Puni",
+    "position": "OG",
+    "season": "2025",
+    "team": "SF",
+    "grade": 76.6
+  },
+  {
+    "player": "David Edwards",
+    "position": "OG",
+    "season": "2025",
+    "team": "BUF",
+    "grade": 76.2
+  },
+  {
+    "player": "Steve Avila",
+    "position": "OG",
+    "season": "2025",
+    "team": "LAR",
+    "grade": 75.4
+  },
+  {
+    "player": "Matthew Bergeron",
+    "position": "OG",
+    "season": "2025",
+    "team": "ATL",
+    "grade": 75.2
+  },
+  {
+    "player": "Ezra Cleveland",
+    "position": "OG",
+    "season": "2025",
+    "team": "JAX",
+    "grade": 75.1
+  },
+  {
+    "player": "Tate Ratledge",
+    "position": "OG",
+    "season": "2025",
+    "team": "DET",
+    "grade": 75
+  },
+  {
+    "player": "Mason McCormick",
+    "position": "OG",
+    "season": "2025",
+    "team": "PIT",
+    "grade": 74.8
+  },
+  {
+    "player": "Kevin Zeitler",
+    "position": "OG",
+    "season": "2025",
+    "team": "TEN",
+    "grade": 74.7
+  },
+  {
+    "player": "Tyler Steen",
+    "position": "OG",
+    "season": "2025",
+    "team": "PHI",
+    "grade": 74.6
+  },
+  {
+    "player": "Sam Cosmi",
+    "position": "OG",
+    "season": "2025",
+    "team": "WAS",
+    "grade": 74.5
+  },
+  {
+    "player": "Joel Bitonio",
+    "position": "OG",
+    "season": "2025",
+    "team": "CLE",
+    "grade": 74
+  },
+  {
+    "player": "Landon Dickerson",
+    "position": "OG",
+    "season": "2025",
+    "team": "PHI",
+    "grade": 73.8
+  },
+  {
+    "player": "Trey Smith",
+    "position": "OG",
+    "season": "2025",
+    "team": "KC",
+    "grade": 73.6
+  },
+  {
+    "player": "Ed Ingram",
+    "position": "OG",
+    "season": "2025",
+    "team": "HOU",
+    "grade": 73.5
+  },
+  {
+    "player": "Joe Tippmann",
+    "position": "OG",
+    "season": "2025",
+    "team": "NYJ",
+    "grade": 73.4
+  },
+  {
+    "player": "Will Fries",
+    "position": "OG",
+    "season": "2025",
+    "team": "MIN",
+    "grade": 71.6
+  },
+  {
+    "player": "Dylan Parham",
+    "position": "OG",
+    "season": "2025",
+    "team": "LV",
+    "grade": 71.5
+  },
+  {
+    "player": "Greg Van Roten",
+    "position": "OG",
+    "season": "2025",
+    "team": "NYG",
+    "grade": 71.5
+  },
+  {
+    "player": "Matt Goncalves",
+    "position": "OG",
+    "season": "2025",
+    "team": "IND",
+    "grade": 71.4
+  },
+  {
+    "player": "Dalton Risner",
+    "position": "OG",
+    "season": "2025",
+    "team": "CIN",
+    "grade": 71.2
+  },
+  {
+    "player": "Grey Zabel",
+    "position": "OG",
+    "season": "2025",
+    "team": "SEA",
+    "grade": 70.8
+  },
+  {
+    "player": "Wyatt Teller",
+    "position": "OG",
+    "season": "2025",
+    "team": "CLE",
+    "grade": 70.6
+  },
+  {
+    "player": "Ben Powers",
+    "position": "OG",
+    "season": "2025",
+    "team": "DEN",
+    "grade": 70.4
+  },
+  {
+    "player": "Kingsley Suamataia",
+    "position": "OG",
+    "season": "2025",
+    "team": "KC",
+    "grade": 70.1
+  },
+  {
+    "player": "John Simpson",
+    "position": "OG",
+    "season": "2025",
+    "team": "NYJ",
+    "grade": 69.7
+  },
+  {
+    "player": "O'Cyrus Torrence",
+    "position": "OG",
+    "season": "2025",
+    "team": "BUF",
+    "grade": 69.6
+  },
+  {
+    "player": "Dylan Fairchild",
+    "position": "OG",
+    "season": "2025",
+    "team": "CIN",
+    "grade": 68.3
+  },
+  {
+    "player": "Zion Johnson",
+    "position": "OG",
+    "season": "2025",
+    "team": "CLE",
+    "grade": 67.8
+  },
+  {
+    "player": "Donovan Jackson",
+    "position": "OG",
+    "season": "2025",
+    "team": "MIN",
+    "grade": 67.5
+  },
+  {
+    "player": "Daniel Faalele",
+    "position": "OG",
+    "season": "2025",
+    "team": "BAL",
+    "grade": 67.4
+  },
+  {
+    "player": "Isaiah Adams",
+    "position": "OG",
+    "season": "2025",
+    "team": "ARI",
+    "grade": 67.3
+  },
+  {
+    "player": "Ben Bredeson",
+    "position": "OG",
+    "season": "2025",
+    "team": "TB",
+    "grade": 67.3
+  },
+  {
+    "player": "Brady Christensen",
+    "position": "OG",
+    "season": "2025",
+    "team": "CAR",
+    "grade": 67.2
+  },
+  {
+    "player": "Jon Runyan Jr.",
+    "position": "OG",
+    "season": "2025",
+    "team": "NYG",
+    "grade": 66.7
+  },
+  {
+    "player": "Jordan Morgan",
+    "position": "OG",
+    "season": "2025",
+    "team": "GB",
+    "grade": 66.3
+  },
+  {
+    "player": "Christian Mahogany",
+    "position": "OG",
+    "season": "2025",
+    "team": "DET",
+    "grade": 66.3
+  },
+  {
+    "player": "Mike Jordan",
+    "position": "OG",
+    "season": "2025",
+    "team": "TB",
+    "grade": 66.3
+  },
+  {
+    "player": "Patrick Mekari",
+    "position": "OG",
+    "season": "2025",
+    "team": "JAX",
+    "grade": 66.2
+  },
+  {
+    "player": "Cesar Ruiz",
+    "position": "OG",
+    "season": "2025",
+    "team": "NO",
+    "grade": 66.2
+  },
+  {
+    "player": "Chris Paul",
+    "position": "OG",
+    "season": "2025",
+    "team": "WAS",
+    "grade": 65.9
+  },
+  {
+    "player": "Jackson Powers-Johnson",
+    "position": "OG",
+    "season": "2025",
+    "team": "LV",
+    "grade": 65.7
+  },
+  {
+    "player": "Aaron Banks",
+    "position": "OG",
+    "season": "2025",
+    "team": "GB",
+    "grade": 65.4
+  },
+  {
+    "player": "Andrew Vorhees",
+    "position": "OG",
+    "season": "2025",
+    "team": "BAL",
+    "grade": 65.2
+  },
+  {
+    "player": "Anthony Bradford",
+    "position": "OG",
+    "season": "2025",
+    "team": "SEA",
+    "grade": 65.1
+  },
+  {
+    "player": "Alex Palczewski",
+    "position": "OG",
+    "season": "2025",
+    "team": "DEN",
+    "grade": 65.1
+  },
+  {
+    "player": "Evan Brown",
+    "position": "OG",
+    "season": "2025",
+    "team": "ARI",
+    "grade": 65
+  },
+  {
+    "player": "Cole Strange",
+    "position": "OG",
+    "season": "2025",
+    "team": "LAC",
+    "grade": 64.8
+  },
+  {
+    "player": "Jared Wilson",
+    "position": "OG",
+    "season": "2025",
+    "team": "NE",
+    "grade": 64
+  },
+  {
+    "player": "Dan Feeney",
+    "position": "OG",
+    "season": "2025",
+    "team": "TB",
+    "grade": 61.9
+  },
+  {
+    "player": "Caleb Rogers",
+    "position": "OG",
+    "season": "2025",
+    "team": "LV",
+    "grade": 61.3
+  },
+  {
+    "player": "Spencer Burford",
+    "position": "OG",
+    "season": "2025",
+    "team": "SF",
+    "grade": 61.2
+  },
+  {
+    "player": "Dillon Radunz",
+    "position": "OG",
+    "season": "2025",
+    "team": "NO",
+    "grade": 60.6
+  },
+  {
+    "player": "Spencer Anderson",
+    "position": "OG",
+    "season": "2025",
+    "team": "PIT",
+    "grade": 60.6
+  },
+  {
+    "player": "Trevor Penning",
+    "position": "OG",
+    "season": "2025",
+    "team": "LAC",
+    "grade": 60.2
+  },
+  {
+    "player": "Connor Colby",
+    "position": "OG",
+    "season": "2025",
+    "team": "SF",
+    "grade": 58.6
+  },
+  {
+    "player": "Laken Tomlinson",
+    "position": "OG",
+    "season": "2025",
+    "team": "BAL",
+    "grade": 58.3
+  },
+  {
+    "player": "Anthony Belton",
+    "position": "OG",
+    "season": "2025",
+    "team": "GB",
+    "grade": 56.9
+  },
+  {
+    "player": "Will Hernandez",
+    "position": "OG",
+    "season": "2025",
+    "team": "ARI",
+    "grade": 56
+  },
+  {
+    "player": "Mekhi Becton",
+    "position": "OG",
+    "season": "2025",
+    "team": "LAC",
+    "grade": 54.8
+  },
+  {
+    "player": "Andrew Wylie",
+    "position": "OG",
+    "season": "2025",
+    "team": "WAS",
+    "grade": 54.4
+  },
+  {
+    "player": "Jonah Savaiinaea",
+    "position": "OG",
+    "season": "2025",
+    "team": "MIA",
+    "grade": 52.6
+  },
+  {
+    "player": "Jalen Rivers",
+    "position": "OG",
+    "season": "2025",
+    "team": "CIN",
+    "grade": 48.3
+  },
+  {
+    "player": "Penei Sewell",
+    "position": "2025",
+    "season": "DET",
+    "team": "OT",
+    "grade": 89.8
+  },
+  {
+    "player": "Tristan Wirfs",
+    "position": "2025",
+    "season": "TB",
+    "team": "OT",
+    "grade": 87.3
+  },
+  {
+    "player": "Garett Bolles",
+    "position": "2025",
+    "season": "DEN",
+    "team": "OT",
+    "grade": 87.2
+  },
+  {
+    "player": "Jordan Mailata",
+    "position": "2025",
+    "season": "PHI",
+    "team": "OT",
+    "grade": 86.2
+  },
+  {
+    "player": "Andrew Thomas",
+    "position": "2025",
+    "season": "NYG",
+    "team": "OT",
+    "grade": 86
+  },
+  {
+    "player": "Trent Williams",
+    "position": "2025",
+    "season": "SF",
+    "team": "OT",
+    "grade": 85.8
+  },
+  {
+    "player": "Darnell Wright",
+    "position": "2025",
+    "season": "CHI",
+    "team": "OT",
+    "grade": 85.3
+  },
+  {
+    "player": "Alaric Jackson",
+    "position": "2025",
+    "season": "LAR",
+    "team": "OT",
+    "grade": 83.5
+  },
+  {
+    "player": "Warren McClendon Jr.",
+    "position": "2025",
+    "season": "LAR",
+    "team": "OT",
+    "grade": 83.1
+  },
+  {
+    "player": "Colton McKivitz",
+    "position": "2025",
+    "season": "SF",
+    "team": "OT",
+    "grade": 83.1
+  },
+  {
+    "player": "Zach Tom",
+    "position": "2025",
+    "season": "GB",
+    "team": "OT",
+    "grade": 83
+  },
+  {
+    "player": "Laremy Tunsil",
+    "position": "2025",
+    "season": "WAS",
+    "team": "OT",
+    "grade": 82.1
+  },
+  {
+    "player": "Brian O'Neill",
+    "position": "2025",
+    "season": "MIN",
+    "team": "OT",
+    "grade": 82.1
+  },
+  {
+    "player": "Taylor Moton",
+    "position": "2025",
+    "season": "CAR",
+    "team": "OT",
+    "grade": 81.9
+  },
+  {
+    "player": "Roger Rosengarten",
+    "position": "2025",
+    "season": "BAL",
+    "team": "OT",
+    "grade": 81.2
+  },
+  {
+    "player": "Morgan Moses",
+    "position": "2025",
+    "season": "NE",
+    "team": "OT",
+    "grade": 80.9
+  },
+  {
+    "player": "Lane Johnson",
+    "position": "2025",
+    "season": "PHI",
+    "team": "OT",
+    "grade": 80.9
+  },
+  {
+    "player": "Bernhard Raimann",
+    "position": "2025",
+    "season": "IND",
+    "team": "OT",
+    "grade": 80.5
+  },
+  {
+    "player": "Charles Cross",
+    "position": "2025",
+    "season": "SEA",
+    "team": "OT",
+    "grade": 80.3
+  },
+  {
+    "player": "Dion Dawkins",
+    "position": "2025",
+    "season": "BUF",
+    "team": "OT",
+    "grade": 79.9
+  },
+  {
+    "player": "Abraham Lucas",
+    "position": "2025",
+    "season": "SEA",
+    "team": "OT",
+    "grade": 79.7
+  },
+  {
+    "player": "Spencer Brown",
+    "position": "2025",
+    "season": "BUF",
+    "team": "OT",
+    "grade": 79.7
+  },
+  {
+    "player": "Joe Alt",
+    "position": "2025",
+    "season": "LAC",
+    "team": "OT",
+    "grade": 79.2
+  },
+  {
+    "player": "Mike McGlinchey",
+    "position": "2025",
+    "season": "DEN",
+    "team": "OT",
+    "grade": 79.2
+  },
+  {
+    "player": "Luke Goedeke",
+    "position": "2025",
+    "season": "TB",
+    "team": "OT",
+    "grade": 79
+  },
+  {
+    "player": "Dylan Cook",
+    "position": "2025",
+    "season": "PIT",
+    "team": "OT",
+    "grade": 78.4
+  },
+  {
+    "player": "Anton Harrison",
+    "position": "2025",
+    "season": "JAX",
+    "team": "OT",
+    "grade": 77.9
+  },
+  {
+    "player": "Troy Fautanu",
+    "position": "2025",
+    "season": "PIT",
+    "team": "OT",
+    "grade": 77.6
+  },
+  {
+    "player": "Ronnie Stanley",
+    "position": "2025",
+    "season": "BAL",
+    "team": "OT",
+    "grade": 77.2
+  },
+  {
+    "player": "Paris Johnson Jr.",
+    "position": "2025",
+    "season": "ARI",
+    "team": "OT",
+    "grade": 77
+  },
+  {
+    "player": "Armand Membou",
+    "position": "2025",
+    "season": "NYJ",
+    "team": "OT",
+    "grade": 77
+  },
+  {
+    "player": "Jake Matthews",
+    "position": "2025",
+    "season": "ATL",
+    "team": "OT",
+    "grade": 76.6
+  },
+  {
+    "player": "Trent Brown",
+    "position": "2025",
+    "season": "HOU",
+    "team": "OT",
+    "grade": 76.5
+  },
+  {
+    "player": "Kelvin Banks Jr.",
+    "position": "2025",
+    "season": "NO",
+    "team": "OT",
+    "grade": 76.3
+  },
+  {
+    "player": "Christian Darrisaw",
+    "position": "2025",
+    "season": "MIN",
+    "team": "OT",
+    "grade": 76.1
+  },
+  {
+    "player": "Amarius Mims",
+    "position": "2025",
+    "season": "CIN",
+    "team": "OT",
+    "grade": 75.3
+  },
+  {
+    "player": "Jermaine Eluemunor",
+    "position": "2025",
+    "season": "NYG",
+    "team": "OT",
+    "grade": 74.6
+  },
+  {
+    "player": "Rasheed Walker",
+    "position": "2025",
+    "season": "GB",
+    "team": "OT",
+    "grade": 74.1
+  },
+  {
+    "player": "Ikem Ekwonu",
+    "position": "2025",
+    "season": "CAR",
+    "team": "OT",
+    "grade": 73.8
+  },
+  {
+    "player": "Will Campbell",
+    "position": "2025",
+    "season": "NE",
+    "team": "OT",
+    "grade": 73.6
+  },
+  {
+    "player": "JC Latham",
+    "position": "2025",
+    "season": "TEN",
+    "team": "OT",
+    "grade": 73.5
+  },
+  {
+    "player": "Tytus Howard",
+    "position": "2025",
+    "season": "HOU",
+    "team": "OT",
+    "grade": 73.5
+  },
+  {
+    "player": "Braden Smith",
+    "position": "2025",
+    "season": "IND",
+    "team": "OT",
+    "grade": 73.2
+  },
+  {
+    "player": "Olumuyiwa Fashanu",
+    "position": "2025",
+    "season": "NYJ",
+    "team": "OT",
+    "grade": 73.1
+  },
+  {
+    "player": "Taylor Decker",
+    "position": "2025",
+    "season": "DET",
+    "team": "OT",
+    "grade": 73.1
+  },
+  {
+    "player": "Orlando Brown Jr.",
+    "position": "2025",
+    "season": "CIN",
+    "team": "OT",
+    "grade": 73.1
+  },
+  {
+    "player": "Taliese Fuaga",
+    "position": "2025",
+    "season": "NO",
+    "team": "OT",
+    "grade": 73
+  },
+  {
+    "player": "Terence Steele",
+    "position": "2025",
+    "season": "DAL",
+    "team": "OT",
+    "grade": 72.7
+  },
+  {
+    "player": "Josh Simmons",
+    "position": "2025",
+    "season": "KC",
+    "team": "OT",
+    "grade": 72.5
+  },
+  {
+    "player": "Jawaan Taylor",
+    "position": "2025",
+    "season": "KC",
+    "team": "OT",
+    "grade": 72.5
+  },
+  {
+    "player": "Patrick Paul",
+    "position": "2025",
+    "season": "MIA",
+    "team": "OT",
+    "grade": 72.4
+  },
+  {
+    "player": "Cole Van Lanen",
+    "position": "2025",
+    "season": "JAX",
+    "team": "OT",
+    "grade": 72.3
+  },
+  {
+    "player": "Elijah Wilkinson",
+    "position": "2025",
+    "season": "ATL",
+    "team": "OT",
+    "grade": 72.3
+  },
+  {
+    "player": "Tyler Guyton",
+    "position": "2025",
+    "season": "DAL",
+    "team": "OT",
+    "grade": 72
+  },
+  {
+    "player": "Austin Jackson",
+    "position": "2025",
+    "season": "MIA",
+    "team": "OT",
+    "grade": 72
+  },
+  {
+    "player": "Ozzy Trapilo",
+    "position": "2025",
+    "season": "CHI",
+    "team": "OT",
+    "grade": 70.3
+  },
+  {
+    "player": "Broderick Jones",
+    "position": "2025",
+    "season": "PIT",
+    "team": "OT",
+    "grade": 69.9
+  },
+  {
+    "player": "Austin Schlottmann",
+    "position": "2025",
+    "season": "NYG",
+    "team": "OT",
+    "grade": 69.9
+  },
+  {
+    "player": "Rob Havenstein",
+    "position": "2025",
+    "season": "LAR",
+    "team": "OT",
+    "grade": 69.8
+  },
+  {
+    "player": "Brandon Coleman",
+    "position": "2025",
+    "season": "WAS",
+    "team": "OT",
+    "grade": 69.7
+  },
+  {
+    "player": "Aireontae Ersery",
+    "position": "2025",
+    "season": "HOU",
+    "team": "OT",
+    "grade": 69.6
+  },
+  {
+    "player": "Walker Little",
+    "position": "2025",
+    "season": "JAX",
+    "team": "OT",
+    "grade": 69.5
+  },
+  {
+    "player": "Jack Conklin",
+    "position": "2025",
+    "season": "CLE",
+    "team": "OT",
+    "grade": 69
+  },
+  {
+    "player": "Teven Jenkins",
+    "position": "2025",
+    "season": "CLE",
+    "team": "OT",
+    "grade": 68.6
+  },
+  {
+    "player": "Justin Dedich",
+    "position": "2025",
+    "season": "LAR",
+    "team": "OT",
+    "grade": 68.3
+  },
+  {
+    "player": "Josh Conerly Jr.",
+    "position": "2025",
+    "season": "WAS",
+    "team": "OT",
+    "grade": 68.1
+  },
+  {
+    "player": "Jamaree Salyer",
+    "position": "2025",
+    "season": "LAC",
+    "team": "OT",
+    "grade": 68
+  },
+  {
+    "player": "Brett Toth",
+    "position": "2025",
+    "season": "PHI",
+    "team": "OT",
+    "grade": 67.6
+  },
+  {
+    "player": "Dan Moore Jr.",
+    "position": "2025",
+    "season": "TEN",
+    "team": "OT",
+    "grade": 67.1
+  },
+  {
+    "player": "Theo Benedet",
+    "position": "2025",
+    "season": "CHI",
+    "team": "OT",
+    "grade": 67
+  },
+  {
+    "player": "TJ Bass",
+    "position": "2025",
+    "season": "DAL",
+    "team": "OT",
+    "grade": 66.9
+  },
+  {
+    "player": "Blake Fisher",
+    "position": "2025",
+    "season": "HOU",
+    "team": "OT",
+    "grade": 66.8
+  },
+  {
+    "player": "Josh Jones",
+    "position": "2025",
+    "season": "SEA",
+    "team": "OT",
+    "grade": 66.7
+  },
+  {
+    "player": "Jalen Travis",
+    "position": "2025",
+    "season": "IND",
+    "team": "OT",
+    "grade": 66.1
+  },
+  {
+    "player": "Jonah Williams",
+    "position": "2025",
+    "season": "ARI",
+    "team": "OT",
+    "grade": 66
+  },
+  {
+    "player": "Yosh Nijman",
+    "position": "2025",
+    "season": "CAR",
+    "team": "OT",
+    "grade": 66
+  },
+  {
+    "player": "Larry Borom",
+    "position": "2025",
+    "season": "MIA",
+    "team": "OT",
+    "grade": 65.8
+  },
+  {
+    "player": "Ryan Van Demark",
+    "position": "2025",
+    "season": "BUF",
+    "team": "OT",
+    "grade": 65.7
+  },
+  {
+    "player": "Ben Brown",
+    "position": "2025",
+    "season": "NE",
+    "team": "OT",
+    "grade": 65.2
+  },
+  {
+    "player": "Darian Kinnard",
+    "position": "2025",
+    "season": "GB",
+    "team": "OT",
+    "grade": 64.4
+  },
+  {
+    "player": "Fred Johnson",
+    "position": "2025",
+    "season": "PHI",
+    "team": "OT",
+    "grade": 64.4
+  },
+  {
+    "player": "Justin Skule",
+    "position": "2025",
+    "season": "MIN",
+    "team": "OT",
+    "grade": 64.4
+  },
+  {
+    "player": "DJ Glaze",
+    "position": "2025",
+    "season": "LV",
+    "team": "OT",
+    "grade": 64
+  },
+  {
+    "player": "Jarrett Patterson",
+    "position": "2025",
+    "season": "HOU",
+    "team": "OT",
+    "grade": 62.9
+  },
+  {
+    "player": "Jaylon Moore",
+    "position": "2025",
+    "season": "KC",
+    "team": "OT",
+    "grade": 62.8
+  },
+  {
+    "player": "Jon Gaines II",
+    "position": "2025",
+    "season": "ARI",
+    "team": "OT",
+    "grade": 62.7
+  },
+  {
+    "player": "KT Leveston",
+    "position": "2025",
+    "season": "CLE",
+    "team": "OT",
+    "grade": 62.7
+  },
+  {
+    "player": "Bobby Hart",
+    "position": "2025",
+    "season": "LAC",
+    "team": "OT",
+    "grade": 62.4
+  },
+  {
+    "player": "Michael Jurgens",
+    "position": "2025",
+    "season": "MIN",
+    "team": "OT",
+    "grade": 62.2
+  },
+  {
+    "player": "Vederian Lowe",
+    "position": "2025",
+    "season": "NE",
+    "team": "OT",
+    "grade": 62
+  },
+  {
+    "player": "Cam Robinson",
+    "position": "2025",
+    "season": "CLE",
+    "team": "OT",
+    "grade": 61.9
+  },
+  {
+    "player": "Stone Forsythe",
+    "position": "2025",
+    "season": "LV",
+    "team": "OT",
+    "grade": 60.5
+  },
+  {
+    "player": "Trey Pipkins",
+    "position": "2025",
+    "season": "LAC",
+    "team": "OT",
+    "grade": 60.4
+  },
+  {
+    "player": "Kayode Awosika",
+    "position": "2025",
+    "season": "DET",
+    "team": "OT",
+    "grade": 60.4
+  },
+  {
+    "player": "Esa Pole",
+    "position": "2025",
+    "season": "KC",
+    "team": "OT",
+    "grade": 59.3
+  },
+  {
+    "player": "Mike Caliendo",
+    "position": "2025",
+    "season": "KC",
+    "team": "OT",
+    "grade": 59.1
+  },
+  {
+    "player": "Juice Scruggs",
+    "position": "2025",
+    "season": "HOU",
+    "team": "OT",
+    "grade": 58.7
+  },
+  {
+    "player": "Olisaemeka Udoh",
+    "position": "2025",
+    "season": "TEN",
+    "team": "OT",
+    "grade": 58.5
+  },
+  {
+    "player": "Josh Fryar",
+    "position": "2025",
+    "season": "ARI",
+    "team": "OT",
+    "grade": 57.9
+  },
+  {
+    "player": "Marcus Mbow",
+    "position": "2025",
+    "season": "NYG",
+    "team": "OT",
+    "grade": 57.9
+  },
+  {
+    "player": "Kelvin Beachum",
+    "position": "2025",
+    "season": "ARI",
+    "team": "OT",
+    "grade": 57.2
+  },
+  {
+    "player": "Luke Wypler",
+    "position": "2025",
+    "season": "CLE",
+    "team": "OT",
+    "grade": 56.9
+  },
+  {
+    "player": "Charlie Heck",
+    "position": "2025",
+    "season": "TB",
+    "team": "OT",
+    "grade": 55.3
+  },
+  {
+    "player": "Cornelius Lucas",
+    "position": "2025",
+    "season": "CLE",
+    "team": "OT",
+    "grade": 54.9
+  },
+  {
+    "player": "Asim Richards",
+    "position": "2025",
+    "season": "NO",
+    "team": "OT",
+    "grade": 54.6
+  },
+  {
+    "player": "Austin Deculus",
+    "position": "2025",
+    "season": "LAC",
+    "team": "OT",
+    "grade": 54
+  },
+  {
+    "player": "Nathan Thomas",
+    "position": "2025",
+    "season": "DAL",
+    "team": "OT",
+    "grade": 51.8
+  },
+  {
+    "player": "Jeffery Simmons",
+    "position": "DT",
+    "season": "2025",
+    "team": "TEN",
+    "grade": 91.1
+  },
+  {
+    "player": "Cameron Heyward",
+    "position": "DT",
+    "season": "2025",
+    "team": "PIT",
+    "grade": 88.6
+  },
+  {
+    "player": "Quinnen Williams",
+    "position": "DT",
+    "season": "2025",
+    "team": "DAL",
+    "grade": 86.4
+  },
+  {
+    "player": "DeForest Buckner",
+    "position": "DT",
+    "season": "2025",
+    "team": "IND",
+    "grade": 85.2
+  },
+  {
+    "player": "Chris Jones",
+    "position": "DT",
+    "season": "2025",
+    "team": "KC",
+    "grade": 82.2
+  },
+  {
+    "player": "Kobie Turner",
+    "position": "DT",
+    "season": "2025",
+    "team": "LAR",
+    "grade": 81.1
+  },
+  {
+    "player": "Poona Ford",
+    "position": "DT",
+    "season": "2025",
+    "team": "LAR",
+    "grade": 81
+  },
+  {
+    "player": "Dexter Lawrence",
+    "position": "DT",
+    "season": "2025",
+    "team": "NYG",
+    "grade": 80.6
+  },
+  {
+    "player": "Milton Williams",
+    "position": "DT",
+    "season": "2025",
+    "team": "NE",
+    "grade": 79.9
+  },
+  {
+    "player": "Leonard Williams",
+    "position": "DT",
+    "season": "2025",
+    "team": "SEA",
+    "grade": 79.8
+  },
+  {
+    "player": "Travis Jones",
+    "position": "DT",
+    "season": "2025",
+    "team": "BAL",
+    "grade": 79.5
+  },
+  {
+    "player": "Tommy Togiai",
+    "position": "DT",
+    "season": "2025",
+    "team": "HOU",
+    "grade": 78.9
+  },
+  {
+    "player": "T'Vondre Sweat",
+    "position": "DT",
+    "season": "2025",
+    "team": "TEN",
+    "grade": 77.4
+  },
+  {
+    "player": "Jalen Redmond",
+    "position": "DT",
+    "season": "2025",
+    "team": "MIN",
+    "grade": 77.3
+  },
+  {
+    "player": "Zach Allen",
+    "position": "DT",
+    "season": "2025",
+    "team": "DEN",
+    "grade": 76.8
+  },
+  {
+    "player": "Byron Murphy II",
+    "position": "DT",
+    "season": "2025",
+    "team": "SEA",
+    "grade": 76.6
+  },
+  {
+    "player": "Maliek Collins",
+    "position": "DT",
+    "season": "2025",
+    "team": "CLE",
+    "grade": 76.2
+  },
+  {
+    "player": "Vita Vea",
+    "position": "DT",
+    "season": "2025",
+    "team": "TB",
+    "grade": 76.1
+  },
+  {
+    "player": "Moro Ojomo",
+    "position": "DT",
+    "season": "2025",
+    "team": "PHI",
+    "grade": 75.7
+  },
+  {
+    "player": "Derrick Brown",
+    "position": "DT",
+    "season": "2025",
+    "team": "CAR",
+    "grade": 75.6
+  },
+  {
+    "player": "Jowon Briggs",
+    "position": "DT",
+    "season": "2025",
+    "team": "NYJ",
+    "grade": 75.4
+  },
+  {
+    "player": "Roy Lopez",
+    "position": "DT",
+    "season": "2025",
+    "team": "DET",
+    "grade": 75.3
+  },
+  {
+    "player": "Calais Campbell",
+    "position": "DT",
+    "season": "2025",
+    "team": "ARI",
+    "grade": 74.5
+  },
+  {
+    "player": "D.J. Jones",
+    "position": "DT",
+    "season": "2025",
+    "team": "DEN",
+    "grade": 74.2
+  },
+  {
+    "player": "David Onyemata",
+    "position": "DT",
+    "season": "2025",
+    "team": "ATL",
+    "grade": 74.2
+  },
+  {
+    "player": "Jordan Davis",
+    "position": "DT",
+    "season": "2025",
+    "team": "PHI",
+    "grade": 73.4
+  },
+  {
+    "player": "Osa Odighizuwa",
+    "position": "DT",
+    "season": "2025",
+    "team": "DAL",
+    "grade": 72.7
+  },
+  {
+    "player": "Mason Graham",
+    "position": "DT",
+    "season": "2025",
+    "team": "CLE",
+    "grade": 72.6
+  },
+  {
+    "player": "John Franklin-Myers",
+    "position": "DT",
+    "season": "2025",
+    "team": "DEN",
+    "grade": 72.3
+  },
+  {
+    "player": "Cory Durden",
+    "position": "DT",
+    "season": "2025",
+    "team": "NE",
+    "grade": 72.3
+  },
+  {
+    "player": "Sheldon Rankins",
+    "position": "DT",
+    "season": "2025",
+    "team": "HOU",
+    "grade": 72.2
+  },
+  {
+    "player": "Eyioma Uwazurike",
+    "position": "DT",
+    "season": "2025",
+    "team": "DEN",
+    "grade": 72
+  },
+  {
+    "player": "Sebastian Joseph-Day",
+    "position": "DT",
+    "season": "2025",
+    "team": "TEN",
+    "grade": 71.7
+  },
+  {
+    "player": "DaQuan Jones",
+    "position": "DT",
+    "season": "2025",
+    "team": "BUF",
+    "grade": 71.7
+  },
+  {
+    "player": "B.J. Hill",
+    "position": "DT",
+    "season": "2025",
+    "team": "CIN",
+    "grade": 71.6
+  },
+  {
+    "player": "Malcolm Roach",
+    "position": "DT",
+    "season": "2025",
+    "team": "DEN",
+    "grade": 71.6
+  },
+  {
+    "player": "LaCale London",
+    "position": "DT",
+    "season": "2025",
+    "team": "ATL",
+    "grade": 71.4
+  },
+  {
+    "player": "Javon Hargrave",
+    "position": "DT",
+    "season": "2025",
+    "team": "MIN",
+    "grade": 71.4
+  },
+  {
+    "player": "Jarran Reed",
+    "position": "DT",
+    "season": "2025",
+    "team": "SEA",
+    "grade": 71.4
+  },
+  {
+    "player": "Arik Armstead",
+    "position": "DT",
+    "season": "2025",
+    "team": "JAX",
+    "grade": 71.1
+  },
+  {
+    "player": "Teair Tart",
+    "position": "DT",
+    "season": "2025",
+    "team": "LAC",
+    "grade": 71.1
+  },
+  {
+    "player": "Kenny Clark",
+    "position": "DT",
+    "season": "2025",
+    "team": "DAL",
+    "grade": 70.8
+  },
+  {
+    "player": "Shelby Harris",
+    "position": "DT",
+    "season": "2025",
+    "team": "CLE",
+    "grade": 70.3
+  },
+  {
+    "player": "Jalen Carter",
+    "position": "DT",
+    "season": "2025",
+    "team": "PHI",
+    "grade": 70
+  },
+  {
+    "player": "Daron Payne",
+    "position": "DT",
+    "season": "2025",
+    "team": "WAS",
+    "grade": 69.9
+  },
+  {
+    "player": "Harrison Phillips",
+    "position": "DT",
+    "season": "2025",
+    "team": "NYJ",
+    "grade": 69.7
+  },
+  {
+    "player": "Tim Settle",
+    "position": "DT",
+    "season": "2025",
+    "team": "HOU",
+    "grade": 69.7
+  },
+  {
+    "player": "Logan Hall",
+    "position": "DT",
+    "season": "2025",
+    "team": "TB",
+    "grade": 69.3
+  },
+  {
+    "player": "A'Shawn Robinson",
+    "position": "DT",
+    "season": "2025",
+    "team": "CAR",
+    "grade": 69.2
+  },
+  {
+    "player": "Nathan Shepherd",
+    "position": "DT",
+    "season": "2025",
+    "team": "NO",
+    "grade": 68.9
+  },
+  {
+    "player": "Zach Sieler",
+    "position": "DT",
+    "season": "2025",
+    "team": "MIA",
+    "grade": 68.8
+  },
+  {
+    "player": "Grady Jarrett",
+    "position": "DT",
+    "season": "2025",
+    "team": "CHI",
+    "grade": 68.8
+  },
+  {
+    "player": "DJ Reader",
+    "position": "DT",
+    "season": "2025",
+    "team": "DET",
+    "grade": 68.5
+  },
+  {
+    "player": "Keeanu Benton",
+    "position": "DT",
+    "season": "2025",
+    "team": "PIT",
+    "grade": 68.4
+  },
+  {
+    "player": "Solomon Thomas",
+    "position": "DT",
+    "season": "2025",
+    "team": "DAL",
+    "grade": 68.4
+  },
+  {
+    "player": "Khyiris Tonga",
+    "position": "DT",
+    "season": "2025",
+    "team": "NE",
+    "grade": 68.2
+  },
+  {
+    "player": "Braden Fiske",
+    "position": "DT",
+    "season": "2025",
+    "team": "LAR",
+    "grade": 68.1
+  },
+  {
+    "player": "Deone Walker",
+    "position": "DT",
+    "season": "2025",
+    "team": "BUF",
+    "grade": 68
+  },
+  {
+    "player": "John Jenkins",
+    "position": "DT",
+    "season": "2025",
+    "team": "BAL",
+    "grade": 67.9
+  },
+  {
+    "player": "Jonathan Allen",
+    "position": "DT",
+    "season": "2025",
+    "team": "MIN",
+    "grade": 67.8
+  },
+  {
+    "player": "Jamaree Caldwell",
+    "position": "DT",
+    "season": "2025",
+    "team": "LAC",
+    "grade": 67.8
+  },
+  {
+    "player": "Tyler Davis",
+    "position": "DT",
+    "season": "2025",
+    "team": "LAR",
+    "grade": 67.6
+  },
+  {
+    "player": "Devonte Wyatt",
+    "position": "DT",
+    "season": "2025",
+    "team": "GB",
+    "grade": 67.5
+  },
+  {
+    "player": "Da'Shawn Hand",
+    "position": "DT",
+    "season": "2025",
+    "team": "LAC",
+    "grade": 67.3
+  },
+  {
+    "player": "Levi Drake Rodriguez",
+    "position": "DT",
+    "season": "2025",
+    "team": "MIN",
+    "grade": 67.3
+  },
+  {
+    "player": "Justin Eboigbe",
+    "position": "DT",
+    "season": "2025",
+    "team": "LAC",
+    "grade": 67.2
+  },
+  {
+    "player": "Christian Barmore",
+    "position": "DT",
+    "season": "2025",
+    "team": "NE",
+    "grade": 67
+  },
+  {
+    "player": "Brandon Dorlus",
+    "position": "DT",
+    "season": "2025",
+    "team": "ATL",
+    "grade": 67
+  },
+  {
+    "player": "Grover Stewart",
+    "position": "DT",
+    "season": "2025",
+    "team": "IND",
+    "grade": 66.8
+  },
+  {
+    "player": "Jer'Zhan Newton",
+    "position": "DT",
+    "season": "2025",
+    "team": "WAS",
+    "grade": 66.7
+  },
+  {
+    "player": "Gervon Dexter Sr.",
+    "position": "DT",
+    "season": "2025",
+    "team": "CHI",
+    "grade": 66.3
+  },
+  {
+    "player": "Neville Gallimore",
+    "position": "DT",
+    "season": "2025",
+    "team": "IND",
+    "grade": 66.3
+  },
+  {
+    "player": "Bryan Bresee",
+    "position": "DT",
+    "season": "2025",
+    "team": "NO",
+    "grade": 65.9
+  },
+  {
+    "player": "James Lynch",
+    "position": "DT",
+    "season": "2025",
+    "team": "TEN",
+    "grade": 65.7
+  },
+  {
+    "player": "Darius Alexander",
+    "position": "DT",
+    "season": "2025",
+    "team": "NYG",
+    "grade": 65.6
+  },
+  {
+    "player": "Tyrion Ingram-Dawkins",
+    "position": "DT",
+    "season": "2025",
+    "team": "MIN",
+    "grade": 65.6
+  },
+  {
+    "player": "Alim McNeill",
+    "position": "DT",
+    "season": "2025",
+    "team": "DET",
+    "grade": 65.5
+  },
+  {
+    "player": "Tyleik Williams",
+    "position": "DT",
+    "season": "2025",
+    "team": "DET",
+    "grade": 65.3
+  },
+  {
+    "player": "Kris Jenkins",
+    "position": "DT",
+    "season": "2025",
+    "team": "CIN",
+    "grade": 65.2
+  },
+  {
+    "player": "Bobby Brown III",
+    "position": "DT",
+    "season": "2025",
+    "team": "CAR",
+    "grade": 65.1
+  },
+  {
+    "player": "Adam Butler",
+    "position": "DT",
+    "season": "2025",
+    "team": "LV",
+    "grade": 64.5
+  },
+  {
+    "player": "DaVon Hamilton",
+    "position": "DT",
+    "season": "2025",
+    "team": "JAX",
+    "grade": 64.5
+  },
+  {
+    "player": "Yahya Black",
+    "position": "DT",
+    "season": "2025",
+    "team": "PIT",
+    "grade": 64.2
+  },
+  {
+    "player": "Jerry Tillery",
+    "position": "DT",
+    "season": "2025",
+    "team": "KC",
+    "grade": 64.2
+  },
+  {
+    "player": "Rakeem Nunez-Roches",
+    "position": "DT",
+    "season": "2025",
+    "team": "NYG",
+    "grade": 63.9
+  },
+  {
+    "player": "Adetomiwa Adebawore",
+    "position": "DT",
+    "season": "2025",
+    "team": "IND",
+    "grade": 63.9
+  },
+  {
+    "player": "Brent Urban",
+    "position": "DT",
+    "season": "2025",
+    "team": "BAL",
+    "grade": 63.8
+  },
+  {
+    "player": "Jonathan Bullard",
+    "position": "DT",
+    "season": "2025",
+    "team": "NO",
+    "grade": 63.5
+  },
+  {
+    "player": "Maason Smith",
+    "position": "DT",
+    "season": "2025",
+    "team": "JAX",
+    "grade": 63.3
+  },
+  {
+    "player": "Tershawn Wharton",
+    "position": "DT",
+    "season": "2025",
+    "team": "CAR",
+    "grade": 62.8
+  },
+  {
+    "player": "Greg Gaines",
+    "position": "DT",
+    "season": "2025",
+    "team": "TB",
+    "grade": 62.6
+  },
+  {
+    "player": "Jonah Williams",
+    "position": "DT",
+    "season": "2025",
+    "team": "NO",
+    "grade": 62.6
+  },
+  {
+    "player": "Eddie Goldman",
+    "position": "DT",
+    "season": "2025",
+    "team": "WAS",
+    "grade": 62.6
+  },
+  {
+    "player": "Roy Robertson-Harris",
+    "position": "DT",
+    "season": "2025",
+    "team": "NYG",
+    "grade": 62.5
+  },
+  {
+    "player": "Kenneth Grant",
+    "position": "DT",
+    "season": "2025",
+    "team": "MIA",
+    "grade": 62.5
+  },
+  {
+    "player": "Javon Kinlaw",
+    "position": "DT",
+    "season": "2025",
+    "team": "WAS",
+    "grade": 62.3
+  },
+  {
+    "player": "Derrick Harmon",
+    "position": "DT",
+    "season": "2025",
+    "team": "PIT",
+    "grade": 62
+  },
+  {
+    "player": "Byron Young",
+    "position": "DT",
+    "season": "2025",
+    "team": "PHI",
+    "grade": 61.9
+  },
+  {
+    "player": "Colby Wooden",
+    "position": "DT",
+    "season": "2025",
+    "team": "GB",
+    "grade": 61.7
+  },
+  {
+    "player": "Thomas Booker V",
+    "position": "DT",
+    "season": "2025",
+    "team": "LV",
+    "grade": 61.7
+  },
+  {
+    "player": "Karl Brooks",
+    "position": "DT",
+    "season": "2025",
+    "team": "GB",
+    "grade": 61.5
+  },
+  {
+    "player": "Jordan Phillips",
+    "position": "DT",
+    "season": "2025",
+    "team": "MIA",
+    "grade": 61.4
+  },
+  {
+    "player": "Elijah Roberts",
+    "position": "DT",
+    "season": "2025",
+    "team": "TB",
+    "grade": 61.2
+  },
+  {
+    "player": "CJ West",
+    "position": "DT",
+    "season": "2025",
+    "team": "SF",
+    "grade": 61.2
+  },
+  {
+    "player": "Davon Godchaux",
+    "position": "DT",
+    "season": "2025",
+    "team": "NO",
+    "grade": 61
+  },
+  {
+    "player": "Warren Brinson",
+    "position": "DT",
+    "season": "2025",
+    "team": "GB",
+    "grade": 60.9
+  },
+  {
+    "player": "Dante Stills",
+    "position": "DT",
+    "season": "2025",
+    "team": "ARI",
+    "grade": 60.2
+  },
+  {
+    "player": "Tedarrell Slaton",
+    "position": "DT",
+    "season": "2025",
+    "team": "CIN",
+    "grade": 60.1
+  },
+  {
+    "player": "Mike Pennel",
+    "position": "DT",
+    "season": "2025",
+    "team": "KC",
+    "grade": 60.1
+  },
+  {
+    "player": "Jordan Elliott",
+    "position": "DT",
+    "season": "2025",
+    "team": "SF",
+    "grade": 59.8
+  },
+  {
+    "player": "Dawuane Smoot",
+    "position": "DT",
+    "season": "2025",
+    "team": "JAX",
+    "grade": 59.2
+  },
+  {
+    "player": "DJ Davidson",
+    "position": "DT",
+    "season": "2025",
+    "team": "NYG",
+    "grade": 59.2
+  },
+  {
+    "player": "Dalvin Tomlinson",
+    "position": "DT",
+    "season": "2025",
+    "team": "ARI",
+    "grade": 58.5
+  },
+  {
+    "player": "Alfred Collins",
+    "position": "DT",
+    "season": "2025",
+    "team": "SF",
+    "grade": 58
+  },
+  {
+    "player": "Jonah Laulu",
+    "position": "DT",
+    "season": "2025",
+    "team": "LV",
+    "grade": 57.8
+  },
+  {
+    "player": "Andrew Billings",
+    "position": "DT",
+    "season": "2025",
+    "team": "CHI",
+    "grade": 57.5
+  },
+  {
+    "player": "PJ Mustipher",
+    "position": "DT",
+    "season": "2025",
+    "team": "ARI",
+    "grade": 57.4
+  },
+  {
+    "player": "Kalia Davis",
+    "position": "DT",
+    "season": "2025",
+    "team": "SF",
+    "grade": 57
+  },
+  {
+    "player": "Benito Jones",
+    "position": "DT",
+    "season": "2025",
+    "team": "MIA",
+    "grade": 56.9
+  },
+  {
+    "player": "T.J. Sanders",
+    "position": "DT",
+    "season": "2025",
+    "team": "BUF",
+    "grade": 56.5
+  },
+  {
+    "player": "Ruke Orhorhoro",
+    "position": "DT",
+    "season": "2025",
+    "team": "ATL",
+    "grade": 55.9
+  },
+  {
+    "player": "Derrick Nnadi",
+    "position": "DT",
+    "season": "2025",
+    "team": "KC",
+    "grade": 55.9
+  },
+  {
+    "player": "Darius Robinson",
+    "position": "DT",
+    "season": "2025",
+    "team": "ARI",
+    "grade": 55.6
+  },
+  {
+    "player": "Mario Edwards",
+    "position": "DT",
+    "season": "2025",
+    "team": "HOU",
+    "grade": 54.6
+  },
+  {
+    "player": "Will Anderson Jr.",
+    "position": "ED",
+    "season": "2025",
+    "team": "HOU",
+    "grade": 96.6
+  },
+  {
+    "player": "Myles Garrett",
+    "position": "ED",
+    "season": "2025",
+    "team": "CLE",
+    "grade": 95.3
+  },
+  {
+    "player": "Aidan Hutchinson",
+    "position": "ED",
+    "season": "2025",
+    "team": "DET",
+    "grade": 93.6
+  },
+  {
+    "player": "Danielle Hunter",
+    "position": "ED",
+    "season": "2025",
+    "team": "HOU",
+    "grade": 90.5
+  },
+  {
+    "player": "Micah Parsons",
+    "position": "ED",
+    "season": "2025",
+    "team": "GB",
+    "grade": 90.1
+  },
+  {
+    "player": "Nick Bosa",
+    "position": "ED",
+    "season": "2025",
+    "team": "SF",
+    "grade": 87.9
+  },
+  {
+    "player": "Josh Hines-Allen",
+    "position": "ED",
+    "season": "2025",
+    "team": "JAX",
+    "grade": 86.9
+  },
+  {
+    "player": "Maxx Crosby",
+    "position": "ED",
+    "season": "2025",
+    "team": "LV",
+    "grade": 86.8
+  },
+  {
+    "player": "Jared Verse",
+    "position": "ED",
+    "season": "2025",
+    "team": "LAR",
+    "grade": 85.4
+  },
+  {
+    "player": "Alex Highsmith",
+    "position": "ED",
+    "season": "2025",
+    "team": "PIT",
+    "grade": 85.1
+  },
+  {
+    "player": "Laiatu Latu",
+    "position": "ED",
+    "season": "2025",
+    "team": "IND",
+    "grade": 83.6
+  },
+  {
+    "player": "Greg Rousseau",
+    "position": "ED",
+    "season": "2025",
+    "team": "BUF",
+    "grade": 83.5
+  },
+  {
+    "player": "Byron Young",
+    "position": "ED",
+    "season": "2025",
+    "team": "LAR",
+    "grade": 83.2
+  },
+  {
+    "player": "Chase Young",
+    "position": "ED",
+    "season": "2025",
+    "team": "NO",
+    "grade": 83.1
+  },
+  {
+    "player": "Brian Burns",
+    "position": "ED",
+    "season": "2025",
+    "team": "NYG",
+    "grade": 82.9
+  },
+  {
+    "player": "Nik Bonitto",
+    "position": "ED",
+    "season": "2025",
+    "team": "DEN",
+    "grade": 82.8
+  },
+  {
+    "player": "Nick Herbig",
+    "position": "ED",
+    "season": "2025",
+    "team": "PIT",
+    "grade": 82.7
+  },
+  {
+    "player": "T.J. Watt",
+    "position": "ED",
+    "season": "2025",
+    "team": "PIT",
+    "grade": 81.8
+  },
+  {
+    "player": "Trey Hendrickson",
+    "position": "ED",
+    "season": "2025",
+    "team": "CIN",
+    "grade": 81.4
+  },
+  {
+    "player": "Khalil Mack",
+    "position": "ED",
+    "season": "2025",
+    "team": "LAC",
+    "grade": 80.1
+  },
+  {
+    "player": "DeMarcus Lawrence",
+    "position": "ED",
+    "season": "2025",
+    "team": "SEA",
+    "grade": 80
+  },
+  {
+    "player": "Jaelan Phillips",
+    "position": "ED",
+    "season": "2025",
+    "team": "PHI",
+    "grade": 79.9
+  },
+  {
+    "player": "George Karlaftis",
+    "position": "ED",
+    "season": "2025",
+    "team": "KC",
+    "grade": 79.5
+  },
+  {
+    "player": "Joey Bosa",
+    "position": "ED",
+    "season": "2025",
+    "team": "BUF",
+    "grade": 79
+  },
+  {
+    "player": "Abdul Carter",
+    "position": "ED",
+    "season": "2025",
+    "team": "NYG",
+    "grade": 79
+  },
+  {
+    "player": "Jadeveon Clowney",
+    "position": "ED",
+    "season": "2025",
+    "team": "DAL",
+    "grade": 78.6
+  },
+  {
+    "player": "Montez Sweat",
+    "position": "ED",
+    "season": "2025",
+    "team": "CHI",
+    "grade": 78.5
+  },
+  {
+    "player": "Yaya Diaby",
+    "position": "ED",
+    "season": "2025",
+    "team": "TB",
+    "grade": 78.3
+  },
+  {
+    "player": "Tuli Tuipulotu",
+    "position": "ED",
+    "season": "2025",
+    "team": "LAC",
+    "grade": 78.2
+  },
+  {
+    "player": "Jonathan Greenard",
+    "position": "ED",
+    "season": "2025",
+    "team": "MIN",
+    "grade": 78
+  },
+  {
+    "player": "Rashan Gary",
+    "position": "ED",
+    "season": "2025",
+    "team": "GB",
+    "grade": 77.8
+  },
+  {
+    "player": "Josh Sweat",
+    "position": "ED",
+    "season": "2025",
+    "team": "ARI",
+    "grade": 77.2
+  },
+  {
+    "player": "Andrew Van Ginkel",
+    "position": "ED",
+    "season": "2025",
+    "team": "MIN",
+    "grade": 76.9
+  },
+  {
+    "player": "Walter Nolen III",
+    "position": "ED",
+    "season": "2025",
+    "team": "ARI",
+    "grade": 76.6
+  },
+  {
+    "player": "Joshua Uche",
+    "position": "ED",
+    "season": "2025",
+    "team": "PHI",
+    "grade": 76.4
+  },
+  {
+    "player": "Dallas Turner",
+    "position": "ED",
+    "season": "2025",
+    "team": "MIN",
+    "grade": 76.1
+  },
+  {
+    "player": "Lukas Van Ness",
+    "position": "ED",
+    "season": "2025",
+    "team": "GB",
+    "grade": 75.9
+  },
+  {
+    "player": "Jalyx Hunt",
+    "position": "ED",
+    "season": "2025",
+    "team": "PHI",
+    "grade": 75.5
+  },
+  {
+    "player": "Derick Hall",
+    "position": "ED",
+    "season": "2025",
+    "team": "SEA",
+    "grade": 75.4
+  },
+  {
+    "player": "Odafe Oweh",
+    "position": "ED",
+    "season": "2025",
+    "team": "LAC",
+    "grade": 75.1
+  },
+  {
+    "player": "Cameron Jordan",
+    "position": "ED",
+    "season": "2025",
+    "team": "NO",
+    "grade": 75
+  },
+  {
+    "player": "Travon Walker",
+    "position": "ED",
+    "season": "2025",
+    "team": "JAX",
+    "grade": 74.9
+  },
+  {
+    "player": "Donovan Ezeiruaku",
+    "position": "ED",
+    "season": "2025",
+    "team": "DAL",
+    "grade": 74.1
+  },
+  {
+    "player": "Zaven Collins",
+    "position": "ED",
+    "season": "2025",
+    "team": "ARI",
+    "grade": 74.1
+  },
+  {
+    "player": "Kayvon Thibodeaux",
+    "position": "ED",
+    "season": "2025",
+    "team": "NYG",
+    "grade": 74
+  },
+  {
+    "player": "Alex Wright",
+    "position": "ED",
+    "season": "2025",
+    "team": "CLE",
+    "grade": 73.9
+  },
+  {
+    "player": "Jonathon Cooper",
+    "position": "ED",
+    "season": "2025",
+    "team": "DEN",
+    "grade": 73.9
+  },
+  {
+    "player": "Kyle Van Noy",
+    "position": "ED",
+    "season": "2025",
+    "team": "BAL",
+    "grade": 73.8
+  },
+  {
+    "player": "Boye Mafe",
+    "position": "ED",
+    "season": "2025",
+    "team": "SEA",
+    "grade": 73.7
+  },
+  {
+    "player": "Harold Landry III",
+    "position": "ED",
+    "season": "2025",
+    "team": "NE",
+    "grade": 73.3
+  },
+  {
+    "player": "Bryce Huff",
+    "position": "ED",
+    "season": "2025",
+    "team": "SF",
+    "grade": 72.9
+  },
+  {
+    "player": "Jonah Elliss",
+    "position": "ED",
+    "season": "2025",
+    "team": "DEN",
+    "grade": 72.7
+  },
+  {
+    "player": "Nic Scourton",
+    "position": "ED",
+    "season": "2025",
+    "team": "CAR",
+    "grade": 72.1
+  },
+  {
+    "player": "Arnold Ebiketie",
+    "position": "ED",
+    "season": "2025",
+    "team": "ATL",
+    "grade": 71.9
+  },
+  {
+    "player": "Dante Fowler Jr.",
+    "position": "ED",
+    "season": "2025",
+    "team": "DAL",
+    "grade": 71.8
+  },
+  {
+    "player": "Dre'Mont Jones",
+    "position": "ED",
+    "season": "2025",
+    "team": "BAL",
+    "grade": 71.6
+  },
+  {
+    "player": "Austin Booker",
+    "position": "ED",
+    "season": "2025",
+    "team": "CHI",
+    "grade": 71.4
+  },
+  {
+    "player": "Nolan Smith",
+    "position": "ED",
+    "season": "2025",
+    "team": "PHI",
+    "grade": 71.2
+  },
+  {
+    "player": "Joseph Ossai",
+    "position": "ED",
+    "season": "2025",
+    "team": "CIN",
+    "grade": 70.8
+  },
+  {
+    "player": "James Houston",
+    "position": "ED",
+    "season": "2025",
+    "team": "DAL",
+    "grade": 70.2
+  },
+  {
+    "player": "Jalon Walker",
+    "position": "ED",
+    "season": "2025",
+    "team": "ATL",
+    "grade": 70.1
+  },
+  {
+    "player": "Myles Murphy",
+    "position": "ED",
+    "season": "2025",
+    "team": "CIN",
+    "grade": 70
+  },
+  {
+    "player": "Carl Granderson",
+    "position": "ED",
+    "season": "2025",
+    "team": "NO",
+    "grade": 70
+  },
+  {
+    "player": "Charles Snowden",
+    "position": "ED",
+    "season": "2025",
+    "team": "LV",
+    "grade": 70
+  },
+  {
+    "player": "Bradley Chubb",
+    "position": "ED",
+    "season": "2025",
+    "team": "MIA",
+    "grade": 69.6
+  },
+  {
+    "player": "Isaiah McGuire",
+    "position": "ED",
+    "season": "2025",
+    "team": "CLE",
+    "grade": 69.5
+  },
+  {
+    "player": "Uchenna Nwosu",
+    "position": "ED",
+    "season": "2025",
+    "team": "SEA",
+    "grade": 69.1
+  },
+  {
+    "player": "Josaiah Stewart",
+    "position": "ED",
+    "season": "2025",
+    "team": "LAR",
+    "grade": 69
+  },
+  {
+    "player": "Will McDonald IV",
+    "position": "ED",
+    "season": "2025",
+    "team": "NYJ",
+    "grade": 68.9
+  },
+  {
+    "player": "Jermaine Johnson II",
+    "position": "ED",
+    "season": "2025",
+    "team": "NYJ",
+    "grade": 68.8
+  },
+  {
+    "player": "Samson Ebukam",
+    "position": "ED",
+    "season": "2025",
+    "team": "IND",
+    "grade": 68.5
+  },
+  {
+    "player": "James Pearce Jr.",
+    "position": "ED",
+    "season": "2025",
+    "team": "ATL",
+    "grade": 67.9
+  },
+  {
+    "player": "Al-Quadin Muhammad",
+    "position": "ED",
+    "season": "2025",
+    "team": "DET",
+    "grade": 67.8
+  },
+  {
+    "player": "Arden Key",
+    "position": "ED",
+    "season": "2025",
+    "team": "TEN",
+    "grade": 67.7
+  },
+  {
+    "player": "Tyree Wilson",
+    "position": "ED",
+    "season": "2025",
+    "team": "LV",
+    "grade": 67.4
+  },
+  {
+    "player": "K'Lavon Chaisson",
+    "position": "ED",
+    "season": "2025",
+    "team": "NE",
+    "grade": 67.2
+  },
+  {
+    "player": "Preston Smith",
+    "position": "ED",
+    "season": "2025",
+    "team": "WAS",
+    "grade": 67.2
+  },
+  {
+    "player": "Anthony Nelson",
+    "position": "ED",
+    "season": "2025",
+    "team": "TB",
+    "grade": 67.1
+  },
+  {
+    "player": "Haason Reddick",
+    "position": "ED",
+    "season": "2025",
+    "team": "TB",
+    "grade": 67
+  },
+  {
+    "player": "Cameron Thomas",
+    "position": "ED",
+    "season": "2025",
+    "team": "CLE",
+    "grade": 67
+  },
+  {
+    "player": "Sam Okuayinonu",
+    "position": "ED",
+    "season": "2025",
+    "team": "SF",
+    "grade": 66.9
+  },
+  {
+    "player": "Charles Omenihu",
+    "position": "ED",
+    "season": "2025",
+    "team": "KC",
+    "grade": 66.8
+  },
+  {
+    "player": "Leonard Floyd",
+    "position": "ED",
+    "season": "2025",
+    "team": "ATL",
+    "grade": 66.8
+  },
+  {
+    "player": "Dondrea Tillman",
+    "position": "ED",
+    "season": "2025",
+    "team": "DEN",
+    "grade": 66.3
+  },
+  {
+    "player": "Kwity Paye",
+    "position": "ED",
+    "season": "2025",
+    "team": "IND",
+    "grade": 66
+  },
+  {
+    "player": "Chop Robinson",
+    "position": "ED",
+    "season": "2025",
+    "team": "MIA",
+    "grade": 65.6
+  },
+  {
+    "player": "Dayo Odeyingbo",
+    "position": "ED",
+    "season": "2025",
+    "team": "CHI",
+    "grade": 65.2
+  },
+  {
+    "player": "Von Miller",
+    "position": "ED",
+    "season": "2025",
+    "team": "WAS",
+    "grade": 65
+  },
+  {
+    "player": "Jacob Martin",
+    "position": "ED",
+    "season": "2025",
+    "team": "WAS",
+    "grade": 64.9
+  },
+  {
+    "player": "Malcolm Koonce",
+    "position": "ED",
+    "season": "2025",
+    "team": "LV",
+    "grade": 64.9
+  },
+  {
+    "player": "Sam Williams",
+    "position": "ED",
+    "season": "2025",
+    "team": "DAL",
+    "grade": 64.8
+  },
+  {
+    "player": "Jack Sawyer",
+    "position": "ED",
+    "season": "2025",
+    "team": "PIT",
+    "grade": 64.7
+  },
+  {
+    "player": "Clelin Ferrell",
+    "position": "ED",
+    "season": "2025",
+    "team": "SF",
+    "grade": 64.5
+  },
+  {
+    "player": "Dennis Gardeck",
+    "position": "ED",
+    "season": "2025",
+    "team": "JAX",
+    "grade": 64.4
+  },
+  {
+    "player": "Mykel Williams",
+    "position": "ED",
+    "season": "2025",
+    "team": "SF",
+    "grade": 64.4
+  },
+  {
+    "player": "Keion White",
+    "position": "ED",
+    "season": "2025",
+    "team": "SF",
+    "grade": 64.3
+  },
+  {
+    "player": "Kingsley Enagbare",
+    "position": "ED",
+    "season": "2025",
+    "team": "GB",
+    "grade": 64.1
+  },
+  {
+    "player": "Oluwafemi Oladejo",
+    "position": "ED",
+    "season": "2025",
+    "team": "TEN",
+    "grade": 64
+  },
+  {
+    "player": "Baron Browning",
+    "position": "ED",
+    "season": "2025",
+    "team": "ARI",
+    "grade": 63.7
+  },
+  {
+    "player": "Mike Green",
+    "position": "ED",
+    "season": "2025",
+    "team": "BAL",
+    "grade": 63.7
+  },
+  {
+    "player": "Anfernee Jennings",
+    "position": "ED",
+    "season": "2025",
+    "team": "NE",
+    "grade": 63.2
+  },
+  {
+    "player": "Derek Barnett",
+    "position": "ED",
+    "season": "2025",
+    "team": "HOU",
+    "grade": 63
+  },
+  {
+    "player": "Ashton Gillotte",
+    "position": "ED",
+    "season": "2025",
+    "team": "KC",
+    "grade": 63
+  },
+  {
+    "player": "A.J. Epenesa",
+    "position": "ED",
+    "season": "2025",
+    "team": "BUF",
+    "grade": 62.9
+  },
+  {
+    "player": "Micheal Clemons",
+    "position": "ED",
+    "season": "2025",
+    "team": "NYJ",
+    "grade": 62.5
+  },
+  {
+    "player": "D.J. Wonnum",
+    "position": "ED",
+    "season": "2025",
+    "team": "CAR",
+    "grade": 62.5
+  },
+  {
+    "player": "Tyler Lacy",
+    "position": "ED",
+    "season": "2025",
+    "team": "DET",
+    "grade": 62.4
+  },
+  {
+    "player": "Tavius Robinson",
+    "position": "ED",
+    "season": "2025",
+    "team": "BAL",
+    "grade": 62.4
+  },
+  {
+    "player": "Chris Rumph II",
+    "position": "ED",
+    "season": "2025",
+    "team": "NO",
+    "grade": 62.2
+  },
+  {
+    "player": "Jaylen Harrell",
+    "position": "ED",
+    "season": "2025",
+    "team": "TEN",
+    "grade": 61.9
+  },
+  {
+    "player": "Chris Braswell",
+    "position": "ED",
+    "season": "2025",
+    "team": "TB",
+    "grade": 61.7
+  },
+  {
+    "player": "Marcus Davenport",
+    "position": "ED",
+    "season": "2025",
+    "team": "DET",
+    "grade": 61.4
+  },
+  {
+    "player": "Jalyn Holmes",
+    "position": "ED",
+    "season": "2025",
+    "team": "WAS",
+    "grade": 61.4
+  },
+  {
+    "player": "Jihad Ward",
+    "position": "ED",
+    "season": "2025",
+    "team": "TEN",
+    "grade": 60.5
+  },
+  {
+    "player": "Michael Danna",
+    "position": "ED",
+    "season": "2025",
+    "team": "KC",
+    "grade": 60.4
+  },
+  {
+    "player": "Dylan Horton",
+    "position": "ED",
+    "season": "2025",
+    "team": "HOU",
+    "grade": 60.1
+  },
+  {
+    "player": "Cameron Sample",
+    "position": "ED",
+    "season": "2025",
+    "team": "CIN",
+    "grade": 59.7
+  },
+  {
+    "player": "Elijah Ponder",
+    "position": "ED",
+    "season": "2025",
+    "team": "NE",
+    "grade": 58.4
+  },
+  {
+    "player": "Trevis Gipson",
+    "position": "ED",
+    "season": "2025",
+    "team": "CAR",
+    "grade": 58.2
+  },
+  {
+    "player": "Emmanuel Ogbah",
+    "position": "ED",
+    "season": "2025",
+    "team": "JAX",
+    "grade": 57.8
+  },
+  {
+    "player": "Matthew Judon",
+    "position": "ED",
+    "season": "2025",
+    "team": "BUF",
+    "grade": 57.6
+  },
+  {
+    "player": "Jordan Burch",
+    "position": "ED",
+    "season": "2025",
+    "team": "ARI",
+    "grade": 57.5
+  },
+  {
+    "player": "Bud Dupree",
+    "position": "ED",
+    "season": "2025",
+    "team": "LAC",
+    "grade": 57
+  },
+  {
+    "player": "Shemar Stewart",
+    "position": "ED",
+    "season": "2025",
+    "team": "CIN",
+    "grade": 56.8
+  },
+  {
+    "player": "Tyquan Lewis",
+    "position": "ED",
+    "season": "2025",
+    "team": "IND",
+    "grade": 55.8
+  },
+  {
+    "player": "Braiden McGregor",
+    "position": "ED",
+    "season": "2025",
+    "team": "NYJ",
+    "grade": 51.9
+  },
+  {
+    "player": "Jack Campbell",
+    "position": "LB",
+    "season": "2025",
+    "team": "DET",
+    "grade": 90.2
+  },
+  {
+    "player": "Fred Warner",
+    "position": "LB",
+    "season": "2025",
+    "team": "SF",
+    "grade": 89.3
+  },
+  {
+    "player": "Devin Lloyd",
+    "position": "LB",
+    "season": "2025",
+    "team": "JAX",
+    "grade": 85.7
+  },
+  {
+    "player": "Devin Bush",
+    "position": "LB",
+    "season": "2025",
+    "team": "CLE",
+    "grade": 85.7
+  },
+  {
+    "player": "Zack Baun",
+    "position": "LB",
+    "season": "2025",
+    "team": "PHI",
+    "grade": 81.3
+  },
+  {
+    "player": "Demario Davis",
+    "position": "LB",
+    "season": "2025",
+    "team": "NO",
+    "grade": 81.1
+  },
+  {
+    "player": "Bobby Wagner",
+    "position": "LB",
+    "season": "2025",
+    "team": "WAS",
+    "grade": 80.1
+  },
+  {
+    "player": "Jordyn Brooks",
+    "position": "LB",
+    "season": "2025",
+    "team": "MIA",
+    "grade": 80.1
+  },
+  {
+    "player": "Cedric Gray",
+    "position": "LB",
+    "season": "2025",
+    "team": "TEN",
+    "grade": 78.7
+  },
+  {
+    "player": "Nick Bolton",
+    "position": "LB",
+    "season": "2025",
+    "team": "KC",
+    "grade": 78.6
+  },
+  {
+    "player": "Carson Schwesinger",
+    "position": "LB",
+    "season": "2025",
+    "team": "CLE",
+    "grade": 78.2
+  },
+  {
+    "player": "Divine Deablo",
+    "position": "LB",
+    "season": "2025",
+    "team": "ATL",
+    "grade": 77.9
+  },
+  {
+    "player": "Foye Oluokun",
+    "position": "LB",
+    "season": "2025",
+    "team": "JAX",
+    "grade": 76.4
+  },
+  {
+    "player": "Tyrice Knight",
+    "position": "LB",
+    "season": "2025",
+    "team": "SEA",
+    "grade": 76.3
+  },
+  {
+    "player": "Edgerrin Cooper",
+    "position": "LB",
+    "season": "2025",
+    "team": "GB",
+    "grade": 76.1
+  },
+  {
+    "player": "Roquan Smith",
+    "position": "LB",
+    "season": "2025",
+    "team": "BAL",
+    "grade": 75.2
+  },
+  {
+    "player": "Eric Wilson",
+    "position": "LB",
+    "season": "2025",
+    "team": "MIN",
+    "grade": 75.1
+  },
+  {
+    "player": "Drue Tranquill",
+    "position": "LB",
+    "season": "2025",
+    "team": "KC",
+    "grade": 74.8
+  },
+  {
+    "player": "Dre Greenlaw",
+    "position": "LB",
+    "season": "2025",
+    "team": "DEN",
+    "grade": 74.6
+  },
+  {
+    "player": "Jihaad Campbell",
+    "position": "LB",
+    "season": "2025",
+    "team": "PHI",
+    "grade": 74.5
+  },
+  {
+    "player": "Robert Spillane",
+    "position": "LB",
+    "season": "2025",
+    "team": "NE",
+    "grade": 74.4
+  },
+  {
+    "player": "Azeez Al-Shaair",
+    "position": "LB",
+    "season": "2025",
+    "team": "HOU",
+    "grade": 74.2
+  },
+  {
+    "player": "Nate Landman",
+    "position": "LB",
+    "season": "2025",
+    "team": "LAR",
+    "grade": 73.3
+  },
+  {
+    "player": "Blake Cashman",
+    "position": "LB",
+    "season": "2025",
+    "team": "MIN",
+    "grade": 73.3
+  },
+  {
+    "player": "Leo Chenal",
+    "position": "LB",
+    "season": "2025",
+    "team": "KC",
+    "grade": 73.3
+  },
+  {
+    "player": "Ernest Jones V",
+    "position": "LB",
+    "season": "2025",
+    "team": "SEA",
+    "grade": 73.2
+  },
+  {
+    "player": "Jamien Sherwood",
+    "position": "LB",
+    "season": "2025",
+    "team": "NYJ",
+    "grade": 72.9
+  },
+  {
+    "player": "Alex Singleton",
+    "position": "LB",
+    "season": "2025",
+    "team": "DEN",
+    "grade": 72.6
+  },
+  {
+    "player": "Justin Strnad",
+    "position": "LB",
+    "season": "2025",
+    "team": "DEN",
+    "grade": 72.4
+  },
+  {
+    "player": "Kaden Elliss",
+    "position": "LB",
+    "season": "2025",
+    "team": "ATL",
+    "grade": 71.9
+  },
+  {
+    "player": "D'Marco Jackson",
+    "position": "LB",
+    "season": "2025",
+    "team": "CHI",
+    "grade": 71.6
+  },
+  {
+    "player": "Tremaine Edmunds",
+    "position": "LB",
+    "season": "2025",
+    "team": "CHI",
+    "grade": 71.6
+  },
+  {
+    "player": "Drake Thomas",
+    "position": "LB",
+    "season": "2025",
+    "team": "SEA",
+    "grade": 71.2
+  },
+  {
+    "player": "T.J. Edwards",
+    "position": "LB",
+    "season": "2025",
+    "team": "CHI",
+    "grade": 71.2
+  },
+  {
+    "player": "Germaine Pratt",
+    "position": "LB",
+    "season": "2025",
+    "team": "IND",
+    "grade": 69.8
+  },
+  {
+    "player": "Alex Anzalone",
+    "position": "LB",
+    "season": "2025",
+    "team": "DET",
+    "grade": 69.2
+  },
+  {
+    "player": "Nakobe Dean",
+    "position": "LB",
+    "season": "2025",
+    "team": "PHI",
+    "grade": 69.2
+  },
+  {
+    "player": "Tyrel Dodson",
+    "position": "LB",
+    "season": "2025",
+    "team": "MIA",
+    "grade": 67.4
+  },
+  {
+    "player": "Henry To'oTo'o",
+    "position": "LB",
+    "season": "2025",
+    "team": "HOU",
+    "grade": 67
+  },
+  {
+    "player": "Lavonte David",
+    "position": "LB",
+    "season": "2025",
+    "team": "TB",
+    "grade": 67
+  },
+  {
+    "player": "Bobby Okereke",
+    "position": "LB",
+    "season": "2025",
+    "team": "NYG",
+    "grade": 66.8
+  },
+  {
+    "player": "Christian Elliss",
+    "position": "LB",
+    "season": "2025",
+    "team": "NE",
+    "grade": 66.8
+  },
+  {
+    "player": "Omar Speights",
+    "position": "LB",
+    "season": "2025",
+    "team": "LAR",
+    "grade": 66.7
+  },
+  {
+    "player": "Teddye Buchanan",
+    "position": "LB",
+    "season": "2025",
+    "team": "BAL",
+    "grade": 66.7
+  },
+  {
+    "player": "Mack Wilson",
+    "position": "LB",
+    "season": "2025",
+    "team": "ARI",
+    "grade": 66.3
+  },
+  {
+    "player": "Daiyan Henley",
+    "position": "LB",
+    "season": "2025",
+    "team": "LAC",
+    "grade": 66.3
+  },
+  {
+    "player": "Jerome Baker",
+    "position": "LB",
+    "season": "2025",
+    "team": "CLE",
+    "grade": 66.2
+  },
+  {
+    "player": "Shaq Thompson",
+    "position": "LB",
+    "season": "2025",
+    "team": "BUF",
+    "grade": 65.9
+  },
+  {
+    "player": "Jack Gibbens",
+    "position": "LB",
+    "season": "2025",
+    "team": "NE",
+    "grade": 65.6
+  },
+  {
+    "player": "Payton Wilson",
+    "position": "LB",
+    "season": "2025",
+    "team": "PIT",
+    "grade": 65.2
+  },
+  {
+    "player": "Dee Winters",
+    "position": "LB",
+    "season": "2025",
+    "team": "SF",
+    "grade": 64.6
+  },
+  {
+    "player": "Trenton Simpson",
+    "position": "LB",
+    "season": "2025",
+    "team": "BAL",
+    "grade": 64.1
+  },
+  {
+    "player": "Elandon Roberts",
+    "position": "LB",
+    "season": "2025",
+    "team": "LV",
+    "grade": 64
+  },
+  {
+    "player": "Terrel Bernard",
+    "position": "LB",
+    "season": "2025",
+    "team": "BUF",
+    "grade": 63.9
+  },
+  {
+    "player": "E.J. Speed",
+    "position": "LB",
+    "season": "2025",
+    "team": "HOU",
+    "grade": 63.7
+  },
+  {
+    "player": "Matt Milano",
+    "position": "LB",
+    "season": "2025",
+    "team": "BUF",
+    "grade": 63.6
+  },
+  {
+    "player": "Devin White",
+    "position": "LB",
+    "season": "2025",
+    "team": "LV",
+    "grade": 63
+  },
+  {
+    "player": "Mohamoud Diabate",
+    "position": "LB",
+    "season": "2025",
+    "team": "CLE",
+    "grade": 62.6
+  },
+  {
+    "player": "Frankie Luvu",
+    "position": "LB",
+    "season": "2025",
+    "team": "WAS",
+    "grade": 62.4
+  },
+  {
+    "player": "SirVocea Dennis",
+    "position": "LB",
+    "season": "2025",
+    "team": "TB",
+    "grade": 61.7
+  },
+  {
+    "player": "Quincy Williams",
+    "position": "LB",
+    "season": "2025",
+    "team": "NYJ",
+    "grade": 61.3
+  },
+  {
+    "player": "Cody Barton",
+    "position": "LB",
+    "season": "2025",
+    "team": "TEN",
+    "grade": 61.2
+  },
+  {
+    "player": "Logan Wilson",
+    "position": "LB",
+    "season": "2025",
+    "team": "DAL",
+    "grade": 60.8
+  },
+  {
+    "player": "Pete Werner",
+    "position": "LB",
+    "season": "2025",
+    "team": "NO",
+    "grade": 60.6
+  },
+  {
+    "player": "Dorian Williams",
+    "position": "LB",
+    "season": "2025",
+    "team": "BUF",
+    "grade": 60.6
+  },
+  {
+    "player": "Ivan Pace Jr.",
+    "position": "LB",
+    "season": "2025",
+    "team": "MIN",
+    "grade": 60.2
+  },
+  {
+    "player": "Jamal Adams",
+    "position": "LB",
+    "season": "2025",
+    "team": "LV",
+    "grade": 60.2
+  },
+  {
+    "player": "Akeem Davis-Gaither",
+    "position": "LB",
+    "season": "2025",
+    "team": "ARI",
+    "grade": 60.1
+  },
+  {
+    "player": "Ronnie Harrison",
+    "position": "LB",
+    "season": "2025",
+    "team": "ATL",
+    "grade": 59.4
+  },
+  {
+    "player": "Tatum Bethune",
+    "position": "LB",
+    "season": "2025",
+    "team": "SF",
+    "grade": 59.3
+  },
+  {
+    "player": "Quay Walker",
+    "position": "LB",
+    "season": "2025",
+    "team": "GB",
+    "grade": 59.2
+  },
+  {
+    "player": "Christian Rozeboom",
+    "position": "LB",
+    "season": "2025",
+    "team": "CAR",
+    "grade": 58.2
+  },
+  {
+    "player": "Troy Dye",
+    "position": "LB",
+    "season": "2025",
+    "team": "LAC",
+    "grade": 58
+  },
+  {
+    "player": "Cody Simon",
+    "position": "LB",
+    "season": "2025",
+    "team": "ARI",
+    "grade": 58
+  },
+  {
+    "player": "Demetrius Knight Jr.",
+    "position": "LB",
+    "season": "2025",
+    "team": "CIN",
+    "grade": 58
+  },
+  {
+    "player": "Denzel Perryman",
+    "position": "LB",
+    "season": "2025",
+    "team": "LAC",
+    "grade": 57.9
+  },
+  {
+    "player": "Trevin Wallace",
+    "position": "LB",
+    "season": "2025",
+    "team": "CAR",
+    "grade": 57.4
+  },
+  {
+    "player": "Patrick Queen",
+    "position": "LB",
+    "season": "2025",
+    "team": "PIT",
+    "grade": 57.4
+  },
+  {
+    "player": "Zaire Franklin",
+    "position": "LB",
+    "season": "2025",
+    "team": "IND",
+    "grade": 57.1
+  },
+  {
+    "player": "Malik Harrison",
+    "position": "LB",
+    "season": "2025",
+    "team": "PIT",
+    "grade": 56.9
+  },
+  {
+    "player": "Barrett Carter",
+    "position": "LB",
+    "season": "2025",
+    "team": "CIN",
+    "grade": 56.4
+  },
+  {
+    "player": "Darius Muasau",
+    "position": "LB",
+    "season": "2025",
+    "team": "NYG",
+    "grade": 56.3
+  },
+  {
+    "player": "Kenneth Murray, Jr.",
+    "position": "LB",
+    "season": "2025",
+    "team": "DAL",
+    "grade": 56.1
+  },
+  {
+    "player": "Noah Sewell",
+    "position": "LB",
+    "season": "2025",
+    "team": "CHI",
+    "grade": 55.8
+  },
+  {
+    "player": "Jordan Magee",
+    "position": "LB",
+    "season": "2025",
+    "team": "WAS",
+    "grade": 55.4
+  },
+  {
+    "player": "Shemar James",
+    "position": "LB",
+    "season": "2025",
+    "team": "DAL",
+    "grade": 54.4
+  },
+  {
+    "player": "Curtis Robinson",
+    "position": "LB",
+    "season": "2025",
+    "team": "SF",
+    "grade": 53.2
+  },
+  {
+    "player": "Francisco Mauigoa",
+    "position": "LB",
+    "season": "2025",
+    "team": "NYJ",
+    "grade": 51.9
+  },
+  {
+    "player": "Oren Burks",
+    "position": "LB",
+    "season": "2025",
+    "team": "CIN",
+    "grade": 43
+  },
+  {
+    "player": "James Pierre",
+    "position": "CB",
+    "season": "2025",
+    "team": "PIT",
+    "grade": 89.9
+  },
+  {
+    "player": "Jamel Dean",
+    "position": "CB",
+    "season": "2025",
+    "team": "TB",
+    "grade": 89.5
+  },
+  {
+    "player": "Devon Witherspoon",
+    "position": "CB",
+    "season": "2025",
+    "team": "SEA",
+    "grade": 87.2
+  },
+  {
+    "player": "Mike Jackson",
+    "position": "CB",
+    "season": "2025",
+    "team": "CAR",
+    "grade": 86.2
+  },
+  {
+    "player": "Christian Gonzalez",
+    "position": "CB",
+    "season": "2025",
+    "team": "NE",
+    "grade": 84.7
+  },
+  {
+    "player": "Cooper DeJean",
+    "position": "CB",
+    "season": "2025",
+    "team": "PHI",
+    "grade": 84
+  },
+  {
+    "player": "Quinyon Mitchell",
+    "position": "CB",
+    "season": "2025",
+    "team": "PHI",
+    "grade": 83.7
+  },
+  {
+    "player": "Kamari Lassiter",
+    "position": "CB",
+    "season": "2025",
+    "team": "HOU",
+    "grade": 82.8
+  },
+  {
+    "player": "Jaylen Watson",
+    "position": "CB",
+    "season": "2025",
+    "team": "KC",
+    "grade": 81.8
+  },
+  {
+    "player": "Ja'Quan McMillian",
+    "position": "CB",
+    "season": "2025",
+    "team": "DEN",
+    "grade": 81.8
+  },
+  {
+    "player": "Pat Surtain II",
+    "position": "CB",
+    "season": "2025",
+    "team": "DEN",
+    "grade": 81.1
+  },
+  {
+    "player": "Sauce Gardner",
+    "position": "CB",
+    "season": "2025",
+    "team": "IND",
+    "grade": 80.7
+  },
+  {
+    "player": "Joey Porter Jr.",
+    "position": "CB",
+    "season": "2025",
+    "team": "PIT",
+    "grade": 80.2
+  },
+  {
+    "player": "Eric Stokes",
+    "position": "CB",
+    "season": "2025",
+    "team": "LV",
+    "grade": 79.6
+  },
+  {
+    "player": "Charvarius Ward",
+    "position": "CB",
+    "season": "2025",
+    "team": "IND",
+    "grade": 79.2
+  },
+  {
+    "player": "Jarrian Jones",
+    "position": "CB",
+    "season": "2025",
+    "team": "JAX",
+    "grade": 79.2
+  },
+  {
+    "player": "Carlton Davis III",
+    "position": "CB",
+    "season": "2025",
+    "team": "NE",
+    "grade": 78.8
+  },
+  {
+    "player": "Donte Jackson",
+    "position": "CB",
+    "season": "2025",
+    "team": "LAC",
+    "grade": 78.7
+  },
+  {
+    "player": "Chidobe Awuzie",
+    "position": "CB",
+    "season": "2025",
+    "team": "BAL",
+    "grade": 77.9
+  },
+  {
+    "player": "Benjamin St-Juste",
+    "position": "CB",
+    "season": "2025",
+    "team": "LAC",
+    "grade": 77.6
+  },
+  {
+    "player": "Christian Benford",
+    "position": "CB",
+    "season": "2025",
+    "team": "BUF",
+    "grade": 77.6
+  },
+  {
+    "player": "Derek Stingley Jr.",
+    "position": "CB",
+    "season": "2025",
+    "team": "HOU",
+    "grade": 76.7
+  },
+  {
+    "player": "Trent McDuffie",
+    "position": "CB",
+    "season": "2025",
+    "team": "KC",
+    "grade": 76.3
+  },
+  {
+    "player": "Jourdan Lewis",
+    "position": "CB",
+    "season": "2025",
+    "team": "JAX",
+    "grade": 76
+  },
+  {
+    "player": "Rasul Douglas",
+    "position": "CB",
+    "season": "2025",
+    "team": "MIA",
+    "grade": 75.6
+  },
+  {
+    "player": "Isaiah Rodgers",
+    "position": "CB",
+    "season": "2025",
+    "team": "MIN",
+    "grade": 75.5
+  },
+  {
+    "player": "Nohl Williams",
+    "position": "CB",
+    "season": "2025",
+    "team": "KC",
+    "grade": 75.2
+  },
+  {
+    "player": "Tyson Campbell",
+    "position": "CB",
+    "season": "2025",
+    "team": "CLE",
+    "grade": 75.2
+  },
+  {
+    "player": "Kool-Aid McKinstry",
+    "position": "CB",
+    "season": "2025",
+    "team": "NO",
+    "grade": 74.1
+  },
+  {
+    "player": "A.J. Terrell",
+    "position": "CB",
+    "season": "2025",
+    "team": "ATL",
+    "grade": 73.9
+  },
+  {
+    "player": "Montaric Brown",
+    "position": "CB",
+    "season": "2025",
+    "team": "JAX",
+    "grade": 73.2
+  },
+  {
+    "player": "Marcus Jones",
+    "position": "CB",
+    "season": "2025",
+    "team": "NE",
+    "grade": 72.9
+  },
+  {
+    "player": "Riley Moss",
+    "position": "CB",
+    "season": "2025",
+    "team": "DEN",
+    "grade": 72.9
+  },
+  {
+    "player": "Keisean Nixon",
+    "position": "CB",
+    "season": "2025",
+    "team": "GB",
+    "grade": 72.3
+  },
+  {
+    "player": "D.J. Reed",
+    "position": "CB",
+    "season": "2025",
+    "team": "DET",
+    "grade": 71.9
+  },
+  {
+    "player": "Nate Wiggins",
+    "position": "CB",
+    "season": "2025",
+    "team": "BAL",
+    "grade": 71.7
+  },
+  {
+    "player": "DJ Turner II",
+    "position": "CB",
+    "season": "2025",
+    "team": "CIN",
+    "grade": 71.2
+  },
+  {
+    "player": "Byron Murphy Jr.",
+    "position": "CB",
+    "season": "2025",
+    "team": "MIN",
+    "grade": 70.7
+  },
+  {
+    "player": "Asante Samuel Jr.",
+    "position": "CB",
+    "season": "2025",
+    "team": "PIT",
+    "grade": 70.7
+  },
+  {
+    "player": "Tarheeb Still",
+    "position": "CB",
+    "season": "2025",
+    "team": "LAC",
+    "grade": 70.6
+  },
+  {
+    "player": "Deommodore Lenoir",
+    "position": "CB",
+    "season": "2025",
+    "team": "SF",
+    "grade": 70.5
+  },
+  {
+    "player": "Tariq Woolen",
+    "position": "CB",
+    "season": "2025",
+    "team": "SEA",
+    "grade": 70.3
+  },
+  {
+    "player": "Will Johnson",
+    "position": "CB",
+    "season": "2025",
+    "team": "ARI",
+    "grade": 70.2
+  },
+  {
+    "player": "Denzel Ward",
+    "position": "CB",
+    "season": "2025",
+    "team": "CLE",
+    "grade": 70.1
+  },
+  {
+    "player": "Zyon McCollum",
+    "position": "CB",
+    "season": "2025",
+    "team": "TB",
+    "grade": 70.1
+  },
+  {
+    "player": "Kenny Moore II",
+    "position": "CB",
+    "season": "2025",
+    "team": "IND",
+    "grade": 69.9
+  },
+  {
+    "player": "DaRon Bland",
+    "position": "CB",
+    "season": "2025",
+    "team": "DAL",
+    "grade": 69.9
+  },
+  {
+    "player": "Tre'Davious White",
+    "position": "CB",
+    "season": "2025",
+    "team": "BUF",
+    "grade": 69.7
+  },
+  {
+    "player": "Jacob Parrish",
+    "position": "CB",
+    "season": "2025",
+    "team": "TB",
+    "grade": 69.6
+  },
+  {
+    "player": "Andru Phillips",
+    "position": "CB",
+    "season": "2025",
+    "team": "NYG",
+    "grade": 69.5
+  },
+  {
+    "player": "Cor'Dale Flott",
+    "position": "CB",
+    "season": "2025",
+    "team": "NYG",
+    "grade": 69.3
+  },
+  {
+    "player": "Brandon Stephens",
+    "position": "CB",
+    "season": "2025",
+    "team": "NYJ",
+    "grade": 68.7
+  },
+  {
+    "player": "Alontae Taylor",
+    "position": "CB",
+    "season": "2025",
+    "team": "NO",
+    "grade": 68.6
+  },
+  {
+    "player": "Maxwell Hairston",
+    "position": "CB",
+    "season": "2025",
+    "team": "BUF",
+    "grade": 68.5
+  },
+  {
+    "player": "Jaycee Horn",
+    "position": "CB",
+    "season": "2025",
+    "team": "CAR",
+    "grade": 68.5
+  },
+  {
+    "player": "Cobie Durant",
+    "position": "CB",
+    "season": "2025",
+    "team": "LAR",
+    "grade": 68.4
+  },
+  {
+    "player": "Rock Ya-Sin",
+    "position": "CB",
+    "season": "2025",
+    "team": "DET",
+    "grade": 68.4
+  },
+  {
+    "player": "Darious Williams",
+    "position": "CB",
+    "season": "2025",
+    "team": "LAR",
+    "grade": 68.4
+  },
+  {
+    "player": "Dax Hill",
+    "position": "CB",
+    "season": "2025",
+    "team": "CIN",
+    "grade": 68.3
+  },
+  {
+    "player": "Nahshon Wright",
+    "position": "CB",
+    "season": "2025",
+    "team": "CHI",
+    "grade": 67.9
+  },
+  {
+    "player": "Jack Jones",
+    "position": "CB",
+    "season": "2025",
+    "team": "MIA",
+    "grade": 67.7
+  },
+  {
+    "player": "Jalen Davis",
+    "position": "CB",
+    "season": "2025",
+    "team": "CIN",
+    "grade": 67.7
+  },
+  {
+    "player": "Roger McCreary",
+    "position": "CB",
+    "season": "2025",
+    "team": "LAR",
+    "grade": 67.6
+  },
+  {
+    "player": "Fabian Moreau",
+    "position": "CB",
+    "season": "2025",
+    "team": "MIN",
+    "grade": 67.5
+  },
+  {
+    "player": "Dee Alford",
+    "position": "CB",
+    "season": "2025",
+    "team": "ATL",
+    "grade": 67.1
+  },
+  {
+    "player": "Garrett Williams",
+    "position": "CB",
+    "season": "2025",
+    "team": "ARI",
+    "grade": 67
+  },
+  {
+    "player": "Darien Porter",
+    "position": "CB",
+    "season": "2025",
+    "team": "LV",
+    "grade": 66.7
+  },
+  {
+    "player": "Terrion Arnold",
+    "position": "CB",
+    "season": "2025",
+    "team": "DET",
+    "grade": 66.7
+  },
+  {
+    "player": "Josh Jobe",
+    "position": "CB",
+    "season": "2025",
+    "team": "SEA",
+    "grade": 66.7
+  },
+  {
+    "player": "Tyrique Stevenson",
+    "position": "CB",
+    "season": "2025",
+    "team": "CHI",
+    "grade": 66.5
+  },
+  {
+    "player": "Jaylon Johnson",
+    "position": "CB",
+    "season": "2025",
+    "team": "CHI",
+    "grade": 66.4
+  },
+  {
+    "player": "Jonathan Jones",
+    "position": "CB",
+    "season": "2025",
+    "team": "WAS",
+    "grade": 66.2
+  },
+  {
+    "player": "Mike Hughes",
+    "position": "CB",
+    "season": "2025",
+    "team": "ATL",
+    "grade": 66.1
+  },
+  {
+    "player": "Josh Newton",
+    "position": "CB",
+    "season": "2025",
+    "team": "CIN",
+    "grade": 65.9
+  },
+  {
+    "player": "Taron Johnson",
+    "position": "CB",
+    "season": "2025",
+    "team": "BUF",
+    "grade": 65.7
+  },
+  {
+    "player": "Nate Hobbs",
+    "position": "CB",
+    "season": "2025",
+    "team": "GB",
+    "grade": 65.4
+  },
+  {
+    "player": "Billy Bowman Jr.",
+    "position": "CB",
+    "season": "2025",
+    "team": "ATL",
+    "grade": 65.3
+  },
+  {
+    "player": "Greg Newsome II",
+    "position": "CB",
+    "season": "2025",
+    "team": "JAX",
+    "grade": 65.3
+  },
+  {
+    "player": "Marcus Harris",
+    "position": "CB",
+    "season": "2025",
+    "team": "TEN",
+    "grade": 65.1
+  },
+  {
+    "player": "Christian Braswell",
+    "position": "CB",
+    "season": "2025",
+    "team": "JAX",
+    "grade": 65
+  },
+  {
+    "player": "Upton Stout",
+    "position": "CB",
+    "season": "2025",
+    "team": "SF",
+    "grade": 65
+  },
+  {
+    "player": "Mike Sainristil",
+    "position": "CB",
+    "season": "2025",
+    "team": "WAS",
+    "grade": 64.9
+  },
+  {
+    "player": "Renardo Green",
+    "position": "CB",
+    "season": "2025",
+    "team": "SF",
+    "grade": 64.8
+  },
+  {
+    "player": "Paulson Adebo",
+    "position": "CB",
+    "season": "2025",
+    "team": "NYG",
+    "grade": 64.5
+  },
+  {
+    "player": "Trey Amos",
+    "position": "CB",
+    "season": "2025",
+    "team": "WAS",
+    "grade": 64.4
+  },
+  {
+    "player": "Cameron Mitchell",
+    "position": "CB",
+    "season": "2025",
+    "team": "IND",
+    "grade": 64.4
+  },
+  {
+    "player": "Denzel Burke",
+    "position": "CB",
+    "season": "2025",
+    "team": "ARI",
+    "grade": 63.5
+  },
+  {
+    "player": "Qwan'tez Stiggers",
+    "position": "CB",
+    "season": "2025",
+    "team": "NYJ",
+    "grade": 63.5
+  },
+  {
+    "player": "Caelen Carson",
+    "position": "CB",
+    "season": "2025",
+    "team": "DAL",
+    "grade": 63.2
+  },
+  {
+    "player": "Kelee Ringo",
+    "position": "CB",
+    "season": "2025",
+    "team": "PHI",
+    "grade": 63.1
+  },
+  {
+    "player": "Carrington Valentine",
+    "position": "CB",
+    "season": "2025",
+    "team": "GB",
+    "grade": 62.7
+  },
+  {
+    "player": "Cam Hart",
+    "position": "CB",
+    "season": "2025",
+    "team": "LAC",
+    "grade": 62.6
+  },
+  {
+    "player": "Quincy Riley",
+    "position": "CB",
+    "season": "2025",
+    "team": "NO",
+    "grade": 62.6
+  },
+  {
+    "player": "Adoree' Jackson",
+    "position": "CB",
+    "season": "2025",
+    "team": "PHI",
+    "grade": 62.6
+  },
+  {
+    "player": "Azareye'h Thomas",
+    "position": "CB",
+    "season": "2025",
+    "team": "NYJ",
+    "grade": 62.5
+  },
+  {
+    "player": "Marlon Humphrey",
+    "position": "CB",
+    "season": "2025",
+    "team": "BAL",
+    "grade": 62.4
+  },
+  {
+    "player": "Darrell Luter Jr.",
+    "position": "CB",
+    "season": "2025",
+    "team": "SF",
+    "grade": 62.3
+  },
+  {
+    "player": "Darius Slay",
+    "position": "CB",
+    "season": "2025",
+    "team": "PIT",
+    "grade": 62.2
+  },
+  {
+    "player": "Jahdae Barron",
+    "position": "CB",
+    "season": "2025",
+    "team": "DEN",
+    "grade": 62.1
+  },
+  {
+    "player": "Brandin Echols",
+    "position": "CB",
+    "season": "2025",
+    "team": "PIT",
+    "grade": 62
+  },
+  {
+    "player": "Mekhi Blackmon",
+    "position": "CB",
+    "season": "2025",
+    "team": "IND",
+    "grade": 62
+  },
+  {
+    "player": "Trevon Diggs",
+    "position": "CB",
+    "season": "2025",
+    "team": "GB",
+    "grade": 60.8
+  },
+  {
+    "player": "Kris Abrams-Draine",
+    "position": "CB",
+    "season": "2025",
+    "team": "DEN",
+    "grade": 60.7
+  },
+  {
+    "player": "Michael Carter II",
+    "position": "CB",
+    "season": "2025",
+    "team": "PHI",
+    "grade": 60.5
+  },
+  {
+    "player": "Cam Taylor-Britt",
+    "position": "CB",
+    "season": "2025",
+    "team": "CIN",
+    "grade": 60.5
+  },
+  {
+    "player": "Chau Smith-Wade",
+    "position": "CB",
+    "season": "2025",
+    "team": "CAR",
+    "grade": 60
+  },
+  {
+    "player": "Jarvis Brownlee Jr.",
+    "position": "CB",
+    "season": "2025",
+    "team": "NYJ",
+    "grade": 59.8
+  },
+  {
+    "player": "Kyu Blu Kelly",
+    "position": "CB",
+    "season": "2025",
+    "team": "LV",
+    "grade": 59.8
+  },
+  {
+    "player": "Amik Robertson",
+    "position": "CB",
+    "season": "2025",
+    "team": "DET",
+    "grade": 59.7
+  },
+  {
+    "player": "Marshon Lattimore",
+    "position": "CB",
+    "season": "2025",
+    "team": "WAS",
+    "grade": 59.6
+  },
+  {
+    "player": "L'Jarius Sneed",
+    "position": "CB",
+    "season": "2025",
+    "team": "TEN",
+    "grade": 59.3
+  },
+  {
+    "player": "Benjamin Morrison",
+    "position": "CB",
+    "season": "2025",
+    "team": "TB",
+    "grade": 59.3
+  },
+  {
+    "player": "Emmanuel Forbes",
+    "position": "CB",
+    "season": "2025",
+    "team": "LAR",
+    "grade": 59.2
+  },
+  {
+    "player": "Noah Igbinoghene",
+    "position": "CB",
+    "season": "2025",
+    "team": "WAS",
+    "grade": 59.1
+  },
+  {
+    "player": "Darrell Baker Jr.",
+    "position": "CB",
+    "season": "2025",
+    "team": "TEN",
+    "grade": 59
+  },
+  {
+    "player": "Trikweze Bridges",
+    "position": "CB",
+    "season": "2025",
+    "team": "DAL",
+    "grade": 58.8
+  },
+  {
+    "player": "Jalyn Armour-Davis",
+    "position": "CB",
+    "season": "2025",
+    "team": "TEN",
+    "grade": 58.5
+  },
+  {
+    "player": "Reddy Steward",
+    "position": "CB",
+    "season": "2025",
+    "team": "DAL",
+    "grade": 58.5
+  },
+  {
+    "player": "Max Melton",
+    "position": "CB",
+    "season": "2025",
+    "team": "ARI",
+    "grade": 58.4
+  },
+  {
+    "player": "Kaiir Elam",
+    "position": "CB",
+    "season": "2025",
+    "team": "TEN",
+    "grade": 58
+  },
+  {
+    "player": "Shavon Revel",
+    "position": "CB",
+    "season": "2025",
+    "team": "DAL",
+    "grade": 56.2
+  },
+  {
+    "player": "Darnay Holmes",
+    "position": "CB",
+    "season": "2025",
+    "team": "LV",
+    "grade": 55.6
+  },
+  {
+    "player": "Myles Harden",
+    "position": "CB",
+    "season": "2025",
+    "team": "CLE",
+    "grade": 55.1
+  },
+  {
+    "player": "Deonte Banks",
+    "position": "CB",
+    "season": "2025",
+    "team": "NYG",
+    "grade": 55
+  },
+  {
+    "player": "Nick McCloud",
+    "position": "CB",
+    "season": "2025",
+    "team": "CHI",
+    "grade": 54.8
+  },
+  {
+    "player": "Jason Marshall Jr.",
+    "position": "CB",
+    "season": "2025",
+    "team": "MIA",
+    "grade": 53.2
+  },
+  {
+    "player": "Xavien Howard",
+    "position": "CB",
+    "season": "2025",
+    "team": "IND",
+    "grade": 51.1
+  },
+  {
+    "player": "Johnathan Edwards",
+    "position": "CB",
+    "season": "2025",
+    "team": "IND",
+    "grade": 50.4
+  },
+  {
+    "player": "Kyle Hamilton",
+    "position": "SAF",
+    "season": "2025",
+    "team": "BAL",
+    "grade": 89
+  },
+  {
+    "player": "Antonio Johnson",
+    "position": "SAF",
+    "season": "2025",
+    "team": "JAX",
+    "grade": 87.9
+  },
+  {
+    "player": "Jalen Pitre",
+    "position": "SAF",
+    "season": "2025",
+    "team": "HOU",
+    "grade": 87.5
+  },
+  {
+    "player": "Xavier McKinney",
+    "position": "SAF",
+    "season": "2025",
+    "team": "GB",
+    "grade": 86.2
+  },
+  {
+    "player": "Julian Love",
+    "position": "SAF",
+    "season": "2025",
+    "team": "SEA",
+    "grade": 84.1
+  },
+  {
+    "player": "Bryan Cook",
+    "position": "SAF",
+    "season": "2025",
+    "team": "KC",
+    "grade": 84
+  },
+  {
+    "player": "Kevin Byard",
+    "position": "SAF",
+    "season": "2025",
+    "team": "CHI",
+    "grade": 83.2
+  },
+  {
+    "player": "Kamren Curl",
+    "position": "SAF",
+    "season": "2025",
+    "team": "LAR",
+    "grade": 82.9
+  },
+  {
+    "player": "Brian Branch",
+    "position": "SAF",
+    "season": "2025",
+    "team": "DET",
+    "grade": 82.2
+  },
+  {
+    "player": "Antoine Winfield Jr.",
+    "position": "SAF",
+    "season": "2025",
+    "team": "TB",
+    "grade": 81.7
+  },
+  {
+    "player": "Jaylinn Hawkins",
+    "position": "SAF",
+    "season": "2025",
+    "team": "NE",
+    "grade": 81.5
+  },
+  {
+    "player": "Nick Emmanwori",
+    "position": "SAF",
+    "season": "2025",
+    "team": "SEA",
+    "grade": 80.1
+  },
+  {
+    "player": "Derwin James Jr.",
+    "position": "SAF",
+    "season": "2025",
+    "team": "LAC",
+    "grade": 80
+  },
+  {
+    "player": "Xavier Watts",
+    "position": "SAF",
+    "season": "2025",
+    "team": "ATL",
+    "grade": 79.8
+  },
+  {
+    "player": "Minkah Fitzpatrick",
+    "position": "SAF",
+    "season": "2025",
+    "team": "MIA",
+    "grade": 79.1
+  },
+  {
+    "player": "Thomas Harper",
+    "position": "SAF",
+    "season": "2025",
+    "team": "DET",
+    "grade": 79.1
+  },
+  {
+    "player": "Kamren Kinchens",
+    "position": "SAF",
+    "season": "2025",
+    "team": "LAR",
+    "grade": 78.8
+  },
+  {
+    "player": "Avonte Maddox",
+    "position": "SAF",
+    "season": "2025",
+    "team": "DET",
+    "grade": 78.4
+  },
+  {
+    "player": "Camryn Bynum",
+    "position": "SAF",
+    "season": "2025",
+    "team": "IND",
+    "grade": 77.3
+  },
+  {
+    "player": "Ronnie Hickman Jr.",
+    "position": "SAF",
+    "season": "2025",
+    "team": "CLE",
+    "grade": 76.4
+  },
+  {
+    "player": "Quentin Lake",
+    "position": "SAF",
+    "season": "2025",
+    "team": "LAR",
+    "grade": 76.1
+  },
+  {
+    "player": "Calen Bullock",
+    "position": "SAF",
+    "season": "2025",
+    "team": "HOU",
+    "grade": 75.8
+  },
+  {
+    "player": "Talanoa Hufanga",
+    "position": "SAF",
+    "season": "2025",
+    "team": "DEN",
+    "grade": 75.2
+  },
+  {
+    "player": "Jessie Bates III",
+    "position": "SAF",
+    "season": "2025",
+    "team": "ATL",
+    "grade": 74.8
+  },
+  {
+    "player": "Ty Okada",
+    "position": "SAF",
+    "season": "2025",
+    "team": "SEA",
+    "grade": 74.2
+  },
+  {
+    "player": "Tykee Smith",
+    "position": "SAF",
+    "season": "2025",
+    "team": "TB",
+    "grade": 74.1
+  },
+  {
+    "player": "DeShon Elliott",
+    "position": "SAF",
+    "season": "2025",
+    "team": "PIT",
+    "grade": 73.5
+  },
+  {
+    "player": "Alohi Gilman",
+    "position": "SAF",
+    "season": "2025",
+    "team": "BAL",
+    "grade": 73.4
+  },
+  {
+    "player": "Brandon Jones",
+    "position": "SAF",
+    "season": "2025",
+    "team": "DEN",
+    "grade": 73.3
+  },
+  {
+    "player": "Cole Bishop",
+    "position": "SAF",
+    "season": "2025",
+    "team": "BUF",
+    "grade": 73.1
+  },
+  {
+    "player": "Grant Delpit",
+    "position": "SAF",
+    "season": "2025",
+    "team": "CLE",
+    "grade": 72.6
+  },
+  {
+    "player": "Jalen Thompson",
+    "position": "SAF",
+    "season": "2025",
+    "team": "ARI",
+    "grade": 72.3
+  },
+  {
+    "player": "Evan Williams",
+    "position": "SAF",
+    "season": "2025",
+    "team": "GB",
+    "grade": 72.2
+  },
+  {
+    "player": "Jaquan Brisker",
+    "position": "SAF",
+    "season": "2025",
+    "team": "CHI",
+    "grade": 72
+  },
+  {
+    "player": "Chuck Clark",
+    "position": "SAF",
+    "season": "2025",
+    "team": "PIT",
+    "grade": 71.5
+  },
+  {
+    "player": "Kerby Joseph",
+    "position": "SAF",
+    "season": "2025",
+    "team": "DET",
+    "grade": 71
+  },
+  {
+    "player": "Jeremy Chinn",
+    "position": "SAF",
+    "season": "2025",
+    "team": "LV",
+    "grade": 70.9
+  },
+  {
+    "player": "Malaki Starks",
+    "position": "SAF",
+    "season": "2025",
+    "team": "BAL",
+    "grade": 70.6
+  },
+  {
+    "player": "Jalen Ramsey",
+    "position": "SAF",
+    "season": "2025",
+    "team": "PIT",
+    "grade": 70.1
+  },
+  {
+    "player": "Coby Bryant",
+    "position": "SAF",
+    "season": "2025",
+    "team": "SEA",
+    "grade": 69.9
+  },
+  {
+    "player": "Justin Reid",
+    "position": "SAF",
+    "season": "2025",
+    "team": "NO",
+    "grade": 69.9
+  },
+  {
+    "player": "Harrison Smith",
+    "position": "SAF",
+    "season": "2025",
+    "team": "MIN",
+    "grade": 69.6
+  },
+  {
+    "player": "Jordan Poyer",
+    "position": "SAF",
+    "season": "2025",
+    "team": "BUF",
+    "grade": 69.5
+  },
+  {
+    "player": "Tre'von Moehrig",
+    "position": "SAF",
+    "season": "2025",
+    "team": "CAR",
+    "grade": 69.1
+  },
+  {
+    "player": "R.J. Mickens",
+    "position": "SAF",
+    "season": "2025",
+    "team": "LAC",
+    "grade": 69.1
+  },
+  {
+    "player": "Andrew Mukuba",
+    "position": "SAF",
+    "season": "2025",
+    "team": "PHI",
+    "grade": 68.9
+  },
+  {
+    "player": "Jonas Sanker",
+    "position": "SAF",
+    "season": "2025",
+    "team": "NO",
+    "grade": 67.7
+  },
+  {
+    "player": "C.J. Gardner-Johnson",
+    "position": "SAF",
+    "season": "2025",
+    "team": "CHI",
+    "grade": 67.7
+  },
+  {
+    "player": "Andre Cisco",
+    "position": "SAF",
+    "season": "2025",
+    "team": "NYJ",
+    "grade": 67.7
+  },
+  {
+    "player": "Malik Mustapha",
+    "position": "SAF",
+    "season": "2025",
+    "team": "SF",
+    "grade": 67.7
+  },
+  {
+    "player": "Dadrion Taylor-Demerson",
+    "position": "SAF",
+    "season": "2025",
+    "team": "ARI",
+    "grade": 67.3
+  },
+  {
+    "player": "Jevon Holland",
+    "position": "SAF",
+    "season": "2025",
+    "team": "NYG",
+    "grade": 67.3
+  },
+  {
+    "player": "Jordan Howden",
+    "position": "SAF",
+    "season": "2025",
+    "team": "NO",
+    "grade": 67.1
+  },
+  {
+    "player": "Dane Belton",
+    "position": "SAF",
+    "season": "2025",
+    "team": "NYG",
+    "grade": 67
+  },
+  {
+    "player": "Ji'Ayir Brown",
+    "position": "SAF",
+    "season": "2025",
+    "team": "SF",
+    "grade": 67
+  },
+  {
+    "player": "Tyler Nubin",
+    "position": "SAF",
+    "season": "2025",
+    "team": "NYG",
+    "grade": 66.7
+  },
+  {
+    "player": "Tony Adams",
+    "position": "SAF",
+    "season": "2025",
+    "team": "NYJ",
+    "grade": 66.6
+  },
+  {
+    "player": "Javon Bullard",
+    "position": "SAF",
+    "season": "2025",
+    "team": "GB",
+    "grade": 66.5
+  },
+  {
+    "player": "Quandre Diggs",
+    "position": "SAF",
+    "season": "2025",
+    "team": "SEA",
+    "grade": 66.4
+  },
+  {
+    "player": "Eric Murray",
+    "position": "SAF",
+    "season": "2025",
+    "team": "JAX",
+    "grade": 66.3
+  },
+  {
+    "player": "Malachi Moore",
+    "position": "SAF",
+    "season": "2025",
+    "team": "NYJ",
+    "grade": 66.2
+  },
+  {
+    "player": "Theo Jackson",
+    "position": "SAF",
+    "season": "2025",
+    "team": "MIN",
+    "grade": 66.1
+  },
+  {
+    "player": "Tony Jefferson",
+    "position": "SAF",
+    "season": "2025",
+    "team": "LAC",
+    "grade": 66.1
+  },
+  {
+    "player": "Nick Cross",
+    "position": "SAF",
+    "season": "2025",
+    "team": "IND",
+    "grade": 66.1
+  },
+  {
+    "player": "Jordan Battle",
+    "position": "SAF",
+    "season": "2025",
+    "team": "CIN",
+    "grade": 66
+  },
+  {
+    "player": "Malik Hooker",
+    "position": "SAF",
+    "season": "2025",
+    "team": "DAL",
+    "grade": 65.6
+  },
+  {
+    "player": "Josh Metellus",
+    "position": "SAF",
+    "season": "2025",
+    "team": "MIN",
+    "grade": 65.6
+  },
+  {
+    "player": "Budda Baker",
+    "position": "SAF",
+    "season": "2025",
+    "team": "ARI",
+    "grade": 65.4
+  },
+  {
+    "player": "Jaylen McCollough",
+    "position": "SAF",
+    "season": "2025",
+    "team": "LAR",
+    "grade": 65.3
+  },
+  {
+    "player": "Craig Woodson",
+    "position": "SAF",
+    "season": "2025",
+    "team": "NE",
+    "grade": 65
+  },
+  {
+    "player": "Kevin Winston Jr.",
+    "position": "SAF",
+    "season": "2025",
+    "team": "TEN",
+    "grade": 65
+  },
+  {
+    "player": "Reed Blankenship",
+    "position": "SAF",
+    "season": "2025",
+    "team": "PHI",
+    "grade": 64.9
+  },
+  {
+    "player": "Myles Bryant",
+    "position": "SAF",
+    "season": "2025",
+    "team": "HOU",
+    "grade": 64.5
+  },
+  {
+    "player": "Andrew Wingard",
+    "position": "SAF",
+    "season": "2025",
+    "team": "JAX",
+    "grade": 64.4
+  },
+  {
+    "player": "Xavier Woods",
+    "position": "SAF",
+    "season": "2025",
+    "team": "TEN",
+    "grade": 64.2
+  },
+  {
+    "player": "Amani Hooker",
+    "position": "SAF",
+    "season": "2025",
+    "team": "TEN",
+    "grade": 64.1
+  },
+  {
+    "player": "Nick Scott",
+    "position": "SAF",
+    "season": "2025",
+    "team": "CAR",
+    "grade": 63.8
+  },
+  {
+    "player": "Josh Wallace",
+    "position": "SAF",
+    "season": "2025",
+    "team": "LAR",
+    "grade": 63.8
+  },
+  {
+    "player": "Marcus Epps",
+    "position": "SAF",
+    "season": "2025",
+    "team": "PHI",
+    "grade": 63.4
+  },
+  {
+    "player": "Juanyeh Thomas",
+    "position": "SAF",
+    "season": "2025",
+    "team": "DAL",
+    "grade": 63
+  },
+  {
+    "player": "Chamarri Conner",
+    "position": "SAF",
+    "season": "2025",
+    "team": "KC",
+    "grade": 62.9
+  },
+  {
+    "player": "Elijah Molden",
+    "position": "SAF",
+    "season": "2025",
+    "team": "LAC",
+    "grade": 62.8
+  },
+  {
+    "player": "Jaden Hicks",
+    "position": "SAF",
+    "season": "2025",
+    "team": "KC",
+    "grade": 62.8
+  },
+  {
+    "player": "Kyle Dugger",
+    "position": "SAF",
+    "season": "2025",
+    "team": "PIT",
+    "grade": 62.7
+  },
+  {
+    "player": "Jeremy Reaves",
+    "position": "SAF",
+    "season": "2025",
+    "team": "WAS",
+    "grade": 62.6
+  },
+  {
+    "player": "Lathan Ransom",
+    "position": "SAF",
+    "season": "2025",
+    "team": "CAR",
+    "grade": 62.4
+  },
+  {
+    "player": "Dante Trader Jr.",
+    "position": "SAF",
+    "season": "2025",
+    "team": "MIA",
+    "grade": 61.9
+  },
+  {
+    "player": "Ifeatu Melifonwu",
+    "position": "SAF",
+    "season": "2025",
+    "team": "MIA",
+    "grade": 60.7
+  },
+  {
+    "player": "Donovan Wilson",
+    "position": "SAF",
+    "season": "2025",
+    "team": "DAL",
+    "grade": 60.4
+  },
+  {
+    "player": "Quan Martin",
+    "position": "SAF",
+    "season": "2025",
+    "team": "WAS",
+    "grade": 60.3
+  },
+  {
+    "player": "Rayshawn Jenkins",
+    "position": "SAF",
+    "season": "2025",
+    "team": "CLE",
+    "grade": 59.2
+  },
+  {
+    "player": "Will Harris",
+    "position": "SAF",
+    "season": "2025",
+    "team": "WAS",
+    "grade": 59.1
+  },
+  {
+    "player": "Geno Stone",
+    "position": "SAF",
+    "season": "2025",
+    "team": "CIN",
+    "grade": 59
+  },
+  {
+    "player": "Cam Lewis",
+    "position": "SAF",
+    "season": "2025",
+    "team": "BUF",
+    "grade": 58.9
+  },
+  {
+    "player": "Ashtyn Davis",
+    "position": "SAF",
+    "season": "2025",
+    "team": "MIA",
+    "grade": 57.6
+  },
+  {
+    "player": "Taylor Rapp",
+    "position": "SAF",
+    "season": "2025",
+    "team": "BUF",
+    "grade": 57
+  },
+  {
+    "player": "Jason Pinnock",
+    "position": "SAF",
+    "season": "2025",
+    "team": "SF",
+    "grade": 56.4
+  },
+  {
+    "player": "Darnell Savage",
+    "position": "SAF",
+    "season": "2025",
+    "team": "BUF",
+    "grade": 56.3
+  },
+  {
+    "player": "Lonnie Johnson Jr.",
+    "position": "SAF",
+    "season": "2025",
+    "team": "LV",
+    "grade": 56
+  },
+  {
+    "player": "Isaiah Pola-Mao",
+    "position": "SAF",
+    "season": "2025",
+    "team": "LV",
+    "grade": 56
+  },
+  {
+    "player": "Markquese Bell",
+    "position": "SAF",
+    "season": "2025",
+    "team": "DAL",
+    "grade": 55
+  },
+  {
+    "player": "Isaiah Oliver",
+    "position": "SAF",
+    "season": "2025",
+    "team": "NYJ",
+    "grade": 54.5
+  },
+  {
+    "player": "M.J. Stewart",
+    "position": "SAF",
+    "season": "2025",
+    "team": "HOU",
+    "grade": 53.9
+  },
+  {
+    "player": "Juan Thornhill",
+    "position": "SAF",
+    "season": "2025",
+    "team": "JAX",
+    "grade": 52.9
+  },
+  {
+    "player": "Marques Sigle",
+    "position": "SAF",
+    "season": "2025",
+    "team": "SF",
+    "grade": 50.8
+  }
+]
