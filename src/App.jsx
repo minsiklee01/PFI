@@ -12,6 +12,7 @@ import BigBoard from './pages/nfl-draft/BigBoard'
 import Mocks from './pages/nfl-draft/Mocks'
 import MockArticle from './pages/nfl-draft/MockArticle'
 import Interviews from './pages/nfl-draft/Interviews'
+import PlayerGrades from './pages/nfl/PlayerGrades'
 
 function App() {
   return (
@@ -20,6 +21,7 @@ function App() {
       <Routes>
         <Route path="/" element={<Home />} />
         <Route path="/nfl" element={<NFL />} />
+        <Route path="/nfl/grades" element={<PlayerGrades />} />
         <Route path="/college" element={<College />} />
         <Route path="/fantasy" element={<Fantasy />} />
         <Route path="/analytics" element={<Analytics />} />
