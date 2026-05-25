@@ -1,11 +1,18 @@
 import { useState } from 'react'
+import { Link, useLocation } from 'react-router-dom'
 import grades from '../../data/playerGrades.json'
+
+const TABS = [
+  { label: 'Latest', href: '/nfl' },
+  { label: 'Grades', href: '/nfl/grades' },
+]
 
 const POSITIONS = ['All', 'QB', 'RB', 'WR', 'TE', 'OC', 'OG', 'OT', 'DT', 'EDGE', 'LB', 'CB', 'SAF']
 
 export default function PlayerGrades() {
   const [position, setPosition] = useState('All')
   const [sortDir, setSortDir] = useState('desc')
+  const { pathname } = useLocation()
 
   const filtered = grades
     .filter(p => position === 'All' || p.position === position)
@@ -15,8 +22,23 @@ export default function PlayerGrades() {
     <div>
       <div className="bg-gray-950 text-white">
         <div className="max-w-7xl mx-auto px-4 py-10">
-          <h1 className="text-4xl font-black text-white mb-2">PFI Player Grades</h1>
+          <h1 className="text-4xl font-black text-white mb-2">NFL</h1>
           <p className="text-gray-400 text-base">2025 season grades across all positions.</p>
+        </div>
+        <div className="max-w-7xl mx-auto px-4 flex gap-1 border-t border-gray-800">
+          {TABS.map(tab => (
+            <Link
+              key={tab.href}
+              to={tab.href}
+              className={`px-4 py-3 text-sm font-semibold border-b-2 transition-colors ${
+                pathname === tab.href
+                  ? 'border-yellow-400 text-white'
+                  : 'border-transparent text-gray-400 hover:text-white'
+              }`}
+            >
+              {tab.label}
+            </Link>
+          ))}
         </div>
       </div>
 

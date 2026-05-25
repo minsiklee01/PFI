@@ -1,3 +1,5 @@
+import { Link, useLocation } from 'react-router-dom'
+
 const STORIES = [
   {
     tag: 'Free Agency',
@@ -29,16 +31,37 @@ const STORIES = [
   },
 ]
 
+const TABS = [
+  { label: 'Latest', href: '/nfl' },
+  { label: 'Grades', href: '/nfl/grades' },
+]
+
 export default function NFL() {
+  const { pathname } = useLocation()
+
   return (
     <div>
-      {/* Page header */}
       <div className="bg-gray-950 text-white">
         <div className="max-w-7xl mx-auto px-4 py-10">
           <h1 className="text-4xl font-black text-white mb-2">NFL</h1>
           <p className="text-gray-400 text-base">
             News, analysis, and coverage of the National Football League.
           </p>
+        </div>
+        <div className="max-w-7xl mx-auto px-4 flex gap-1 border-t border-gray-800">
+          {TABS.map(tab => (
+            <Link
+              key={tab.href}
+              to={tab.href}
+              className={`px-4 py-3 text-sm font-semibold border-b-2 transition-colors ${
+                pathname === tab.href
+                  ? 'border-yellow-400 text-white'
+                  : 'border-transparent text-gray-400 hover:text-white'
+              }`}
+            >
+              {tab.label}
+            </Link>
+          ))}
         </div>
       </div>
 
